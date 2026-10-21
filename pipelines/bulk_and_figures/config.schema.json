@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "CRC TCR bulk and figures external inputs",
+  "type": "object",
+  "required": ["schema_version", "paths"],
+  "properties": {
+    "schema_version": {"const": 1},
+    "paths": {"type": "object", "additionalProperties": {"type": "string", "pattern": "^/"}},
+    "private_literals": {"type": "object", "additionalProperties": {"type": "string"}},
+    "private_literals_file": {"type": "string"}
+  },
+  "anyOf": [{"required": ["private_literals"]}, {"required": ["private_literals_file"]}],
+  "additionalProperties": false
+}

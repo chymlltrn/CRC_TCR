@@ -1,0 +1,10 @@
+{
+  "excluded_donor_ids": [
+    "SYNTH_EXCLUDED_DONOR"
+  ],
+  "forbidden_donor_ids": [
+    "SYNTH_EXCLUDED_DONOR",
+    "SYNTH_UPSTREAM_EXCLUDED"
+  ],
+  "expected_n_donors": 19
+}

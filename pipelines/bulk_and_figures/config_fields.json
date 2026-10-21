@@ -1,0 +1,3094 @@
+{
+  "private_45bbaa37a9607bb7": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/antigen_selected_20261003/tools/src/selected_gliph_evidence.py",
+        "line": 17
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/antigen_selected_20261003/tools/src/selected_tcrdist_evidence.py",
+        "line": 21
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/antigen_selected_20261003/tools/src/selected_tools_finalize.py",
+        "line": 60
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/antigen_selected_20261003/tools/src/selected_tools_finalize.py",
+        "line": 62
+      },
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v6/v6_candidate_audit.py",
+        "line": 13
+      },
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v6/v6_candidate_verify.py",
+        "line": 37
+      },
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/assemble.py",
+        "line": 390
+      },
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/audit_nucleotide_variants_v17.py",
+        "line": 18
+      },
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/compute_antigen_ergo_v19.py",
+        "line": 57
+      },
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/compute_antigen_rankings_v19.py",
+        "line": 47
+      },
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/compute_antigen_rankings_v19.py",
+        "line": 55
+      }
+    ]
+  },
+  "path_99d8c1c6fde2a6b9": {
+    "section": "paths",
+    "type": "string",
+    "description": "Configured filesystem location",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/antigen_selected_20261003/tools/src/selected_gliph_evidence.py",
+        "line": 15
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/antigen_selected_20261003/tools/src/selected_tcrdist_evidence.py",
+        "line": 19
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/leiden_full_20261001/src/full_leiden_graph.py",
+        "line": 38
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/leiden_full_sceptr_20261002/src/full_leiden_graph.py",
+        "line": 38
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/01_resource_monitor.py",
+        "line": 12
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/01_validate.py",
+        "line": 19
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/02_extend_embeddings.py",
+        "line": 22
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/03_atlas.py",
+        "line": 21
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/03_atlas_figures.py",
+        "line": 16
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/03_batch_report.py",
+        "line": 17
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/03_folds.py",
+        "line": 12
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/03_render_atlas_umap.py",
+        "line": 16
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/03_vector_batch.py",
+        "line": 22
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/04_embedding_neighborhood.py",
+        "line": 19
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/05_ablation.py",
+        "line": 27
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/05_decision.py",
+        "line": 28
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/05_external.py",
+        "line": 30
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/05_predictive.py",
+        "line": 37
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/05_sensitivity.py",
+        "line": 19
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/06_antigen.py",
+        "line": 37
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/07_run_after_pilots.py",
+        "line": 25
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/08_bag_capture.py",
+        "line": 19
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/08_baseline.py",
+        "line": 18
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/08_baseline_l2.py",
+        "line": 20
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/08_capture_coverage.py",
+        "line": 19
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/08_cdr3vec_pilot.py",
+        "line": 23
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/08_compare_mil.py",
+        "line": 37
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/08_compare_summary.py",
+        "line": 18
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/08_home_sample.py",
+        "line": 22
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/08_prepare_vectors.py",
+        "line": 30
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/09_finalize_completion.py",
+        "line": 8
+      },
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v11/nodal_metrics_v11.py",
+        "line": 14
+      },
+      {
+        "file": "source_tree/20261010_article_v25/20261009_ML_SHAP/src/build_cluster_tcr_features.py",
+        "line": 31
+      }
+    ]
+  },
+  "private_4a4471ea66b00c5b": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/antigen_selected_20261003/tools/src/selected_gliph_evidence.py",
+        "line": 121
+      }
+    ]
+  },
+  "path_d0e765bda4af91e5": {
+    "section": "paths",
+    "type": "string",
+    "description": "Configured filesystem location",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/antigen_selected_20261003/tools/src/selected_tools_finalize.py",
+        "line": 8
+      }
+    ]
+  },
+  "private_f1b0270db4fff190": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/antigen_selected_20261003/tools/src/selected_tools_finalize.py",
+        "line": 73
+      }
+    ]
+  },
+  "private_f2bfa252702fa806": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/leiden_full_20261001/n_bias_20261002/src/cluster_n_bias.py",
+        "line": 373
+      }
+    ]
+  },
+  "private_687bb6b20b4641ed": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/leiden_full_20261001/n_bias_20261002/src/cluster_n_bias.py",
+        "line": 440
+      }
+    ]
+  },
+  "private_48d6cc7c9d5327e9": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/leiden_full_20261001/n_bias_20261002/src/cluster_n_bias.py",
+        "line": 474
+      }
+    ]
+  },
+  "private_52085b4d67e616fe": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/leiden_full_20261001/n_bias_20261002/src/cluster_n_bias.py",
+        "line": 373
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/01_ingest.py",
+        "line": 251
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/01_ingest.py",
+        "line": 172
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/01_ingest.py",
+        "line": 145
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/01_ingest.py",
+        "line": 156
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/01_ingest.py",
+        "line": 225
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/01_ingest.py",
+        "line": 174
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/01_validate.py",
+        "line": 51
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/04_groups_stats.py",
+        "line": 460
+      }
+    ]
+  },
+  "private_db9850ff5b76a6f9": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/leiden_full_20261001/n_bias_20261002/src/cluster_n_bias.py",
+        "line": 373
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/01_ingest.py",
+        "line": 251
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/01_ingest.py",
+        "line": 172
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/01_ingest.py",
+        "line": 145
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/01_ingest.py",
+        "line": 156
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/01_ingest.py",
+        "line": 225
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/01_ingest.py",
+        "line": 176
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/01_validate.py",
+        "line": 51
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/04_groups_stats.py",
+        "line": 460
+      }
+    ]
+  },
+  "path_cdf25e571cdc1f16": {
+    "section": "paths",
+    "type": "string",
+    "description": "Configured filesystem location",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/leiden_full_20261001/src/finalize_counts.py",
+        "line": 21
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/leiden_full_20261001/src/patient_cluster_stats.py",
+        "line": 33
+      }
+    ]
+  },
+  "private_4c5af2f5f9ad6109": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/leiden_full_20261001/src/finalize_counts.py",
+        "line": 959
+      }
+    ]
+  },
+  "path_fd724b65e07400d1": {
+    "section": "paths",
+    "type": "string",
+    "description": "Configured filesystem location",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/leiden_full_sceptr_20261002/src/queue_run.py",
+        "line": 16
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/leiden_full_sceptr_20261002/src/validate_outputs.py",
+        "line": 14
+      }
+    ]
+  },
+  "private_aecd94a4c663c0c5": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/pooled_N_20261003/src/analyze_pooled.py",
+        "line": 122
+      }
+    ]
+  },
+  "path_39343c5e69c3d939": {
+    "section": "paths",
+    "type": "string",
+    "description": "Configured filesystem location",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/01_ingest.py",
+        "line": 21
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/src/01_ingest.py",
+        "line": 21
+      },
+      {
+        "file": "source_tree/20261003_paper_v2/code/q1_consolidate.py",
+        "line": 6
+      },
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v6/v6_candidate_audit.py",
+        "line": 188
+      }
+    ]
+  },
+  "path_d99b31f433ea263e": {
+    "section": "paths",
+    "type": "string",
+    "description": "Configured filesystem location",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/01_ingest.py",
+        "line": 30
+      }
+    ]
+  },
+  "path_a2730582fc59ec04": {
+    "section": "paths",
+    "type": "string",
+    "description": "Configured filesystem location",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/01_ingest.py",
+        "line": 31
+      }
+    ]
+  },
+  "path_4dadd066fc8c160b": {
+    "section": "paths",
+    "type": "string",
+    "description": "Configured filesystem location",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/01_ingest.py",
+        "line": 32
+      }
+    ]
+  },
+  "path_5fd6b340b7dbb8db": {
+    "section": "paths",
+    "type": "string",
+    "description": "Configured filesystem location",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/01_ingest.py",
+        "line": 33
+      }
+    ]
+  },
+  "private_eb2d4490a07d3f78": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/01_ingest.py",
+        "line": 178
+      }
+    ]
+  },
+  "private_283790eb0a2c6510": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/01_ingest.py",
+        "line": 144
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/04_groups_stats.py",
+        "line": 459
+      },
+      {
+        "file": "source_tree/20261003_paper_v2/code/nodal_compile.py",
+        "line": 118
+      }
+    ]
+  },
+  "path_70a00081c087c53f": {
+    "section": "paths",
+    "type": "string",
+    "description": "Configured filesystem location",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/02_extend_embeddings.py",
+        "line": 468
+      }
+    ]
+  },
+  "path_2c83fb1164fd9d90": {
+    "section": "paths",
+    "type": "string",
+    "description": "Configured filesystem location",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/04_groups_stats.py",
+        "line": 31
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/src/04_groups_stats.py",
+        "line": 31
+      }
+    ]
+  },
+  "private_090825d49c8c80bb": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/04_groups_stats.py",
+        "line": 1580
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/src/04_groups_stats.py",
+        "line": 1561
+      }
+    ]
+  },
+  "private_45a15b111d17e62a": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/04_groups_stats.py",
+        "line": 1581
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/src/04_groups_stats.py",
+        "line": 1562
+      }
+    ]
+  },
+  "private_402ba73402bf3595": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/04_groups_stats.py",
+        "line": 1600
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/src/04_groups_stats.py",
+        "line": 1581
+      }
+    ]
+  },
+  "private_b6b1b2517b10d5e5": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/04_groups_stats.py",
+        "line": 1605
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/src/04_groups_stats.py",
+        "line": 1586
+      }
+    ]
+  },
+  "private_6638b3b7026d19e5": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/04_groups_stats.py",
+        "line": 1789
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/src/04_groups_stats.py",
+        "line": 1770
+      }
+    ]
+  },
+  "private_24376e81ba4a238e": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/04_groups_stats.py",
+        "line": 2390
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/src/04_groups_stats.py",
+        "line": 2371
+      }
+    ]
+  },
+  "private_45524c611f0209ae": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/04_groups_stats.py",
+        "line": 2407
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/src/04_groups_stats.py",
+        "line": 2388
+      }
+    ]
+  },
+  "path_1304218e86d2e596": {
+    "section": "paths",
+    "type": "string",
+    "description": "Configured filesystem location",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/04b_tcrdist_projection.py",
+        "line": 2893
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/embeddings/annotate_sceptr.py",
+        "line": 11
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/embeddings/tcrbert_dualtask_aa_mean/run.py",
+        "line": 13
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/embeddings/verify_bank.py",
+        "line": 14
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/models/mirror_models.py",
+        "line": 11
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/src/00_extract_clinical.py",
+        "line": 19
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/src/02_embed.py",
+        "line": 25
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/src/04b_tcrdist_projection.py",
+        "line": 2895
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/src/05_bag_capture_observed.py",
+        "line": 13
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/src/05_bag_curve_evaluate.py",
+        "line": 22
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/src/05_bag_curve_plot.py",
+        "line": 16
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/src/05_bag_curve_v2.py",
+        "line": 19
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/src/05_mil.py",
+        "line": 36
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/src/06_decision.py",
+        "line": 23
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/src/99_final_acceptance.py",
+        "line": 22
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/src/99_validate.py",
+        "line": 27
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/src/tests/test_99_validate.py",
+        "line": 14
+      }
+    ]
+  },
+  "private_8b5efd300a8432fa": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/04b_tcrdist_projection.py",
+        "line": 517
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/04b_tcrdist_projection.py",
+        "line": 776
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/src/04b_tcrdist_projection.py",
+        "line": 515
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/src/04b_tcrdist_projection.py",
+        "line": 778
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/src/tests/test_06_decision.py",
+        "line": 193
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/src/tests/test_06_decision.py",
+        "line": 646
+      }
+    ]
+  },
+  "path_b431b0be7d9625c5": {
+    "section": "paths",
+    "type": "string",
+    "description": "Configured filesystem location",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/06_antigen.py",
+        "line": 38
+      }
+    ]
+  },
+  "private_afe396ab2995c4e1": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/06_antigen.py",
+        "line": 488
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/06_antigen.py",
+        "line": 488
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/embeddings/tcrbert_dualtask_aa_mean/run.py",
+        "line": 151
+      }
+    ]
+  },
+  "private_fca63371fa6f464f": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/06_antigen.py",
+        "line": 489
+      }
+    ]
+  },
+  "private_b61a2a99e39b79fb": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/06_antigen.py",
+        "line": 561
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/06_antigen.py",
+        "line": 555
+      }
+    ]
+  },
+  "private_25632297a2ea2fd3": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/06_antigen.py",
+        "line": 555
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/06_antigen.py",
+        "line": 560
+      }
+    ]
+  },
+  "private_9bf3cc429e0e5a7d": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/06_antigen.py",
+        "line": 555
+      }
+    ]
+  },
+  "private_ad724481966f3a4d": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/08_compare_summary.py",
+        "line": 84
+      }
+    ]
+  },
+  "private_4243dc7e9f914613": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/08_home_sample.py",
+        "line": 43
+      }
+    ]
+  },
+  "private_32915f1f5103aed9": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/atlas_340/src/09_finalize_completion.py",
+        "line": 115
+      }
+    ]
+  },
+  "path_b0b906586de9611b": {
+    "section": "paths",
+    "type": "string",
+    "description": "Configured filesystem location",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/embeddings/tcrbert_dualtask_aa_mean/run.py",
+        "line": 15
+      }
+    ]
+  },
+  "private_7cee5a7ae88192c9": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/embeddings/tcrbert_dualtask_aa_mean/run.py",
+        "line": 151
+      }
+    ]
+  },
+  "private_48769fcd2cfa432e": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/embeddings/tcrbert_dualtask_aa_mean/run.py",
+        "line": 151
+      }
+    ]
+  },
+  "path_df0fb75e17e2f0ab": {
+    "section": "paths",
+    "type": "string",
+    "description": "Configured filesystem location",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/src/00_extract_clinical.py",
+        "line": 20
+      },
+      {
+        "file": "source_tree/20261003_paper_v2/code/q1_consolidate.py",
+        "line": 97
+      },
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v6/v6_candidate_audit.py",
+        "line": 188
+      }
+    ]
+  },
+  "path_67211e466e7fa9cd": {
+    "section": "paths",
+    "type": "string",
+    "description": "Configured filesystem location",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/src/00_extract_clinical.py",
+        "line": 23
+      }
+    ]
+  },
+  "private_12fb2cc30d7e422d": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/src/00_extract_clinical.py",
+        "line": 120
+      }
+    ]
+  },
+  "private_0e67846c711df55d": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/src/00_extract_clinical.py",
+        "line": 126
+      }
+    ]
+  },
+  "private_696b762cd969621d": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/src/00_extract_clinical.py",
+        "line": 204
+      }
+    ]
+  },
+  "private_ecaeffbd34504fe1": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/src/00_extract_clinical.py",
+        "line": 146
+      }
+    ]
+  },
+  "private_b9305672b3cef9d9": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/src/00_extract_clinical.py",
+        "line": 150
+      }
+    ]
+  },
+  "private_26894a82bbfbca50": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/src/00_extract_clinical.py",
+        "line": 229
+      }
+    ]
+  },
+  "private_b83fec3a2cefc253": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/src/00_extract_clinical.py",
+        "line": 116
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/src/01_ingest.py",
+        "line": 70
+      }
+    ]
+  },
+  "private_6f35e14dd50e6993": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/src/01_ingest.py",
+        "line": 135
+      }
+    ]
+  },
+  "path_a521916029b565d4": {
+    "section": "paths",
+    "type": "string",
+    "description": "Configured filesystem location",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/src/02_embed.py",
+        "line": 26
+      }
+    ]
+  },
+  "path_2c546708477b822a": {
+    "section": "paths",
+    "type": "string",
+    "description": "Configured filesystem location",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/src/02_embed.py",
+        "line": 27
+      }
+    ]
+  },
+  "private_8db940e772b243a5": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/src/04b_tcrdist_projection.py",
+        "line": 2085
+      }
+    ]
+  },
+  "private_d1b7091295d8d1d2": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/src/04b_tcrdist_projection.py",
+        "line": 1867
+      }
+    ]
+  },
+  "private_32619d760ab0d399": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/src/04c_group_sensitivities.py",
+        "line": 814
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/src/tests/test_04c_group_sensitivities.py",
+        "line": 169
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/src/tests/test_04c_group_sensitivities.py",
+        "line": 97
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/src/tests/test_04c_group_sensitivities.py",
+        "line": 179
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/src/tests/test_04c_group_sensitivities.py",
+        "line": 164
+      }
+    ]
+  },
+  "private_7de383ac6b93256a": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/src/05_bag_curve_evaluate.py",
+        "line": 309
+      }
+    ]
+  },
+  "private_4b09056568ab6f20": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/src/05_bag_curve_evaluate.py",
+        "line": 430
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/src/05_mil.py",
+        "line": 2087
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/src/05_mil.py",
+        "line": 2422
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/src/06_decision.py",
+        "line": 330
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/src/06_decision.py",
+        "line": 858
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/src/99_final_acceptance.py",
+        "line": 361
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/src/99_final_acceptance.py",
+        "line": 1238
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/src/99_final_acceptance.py",
+        "line": 1288
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/src/99_final_acceptance.py",
+        "line": 1140
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/src/tests/test_06_decision.py",
+        "line": 233
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/src/tests/test_06_decision.py",
+        "line": 731
+      }
+    ]
+  },
+  "private_719c705267afb202": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/src/05_bag_curve_evaluate.py",
+        "line": 247
+      }
+    ]
+  },
+  "private_74e85e2b21501e17": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/src/05_bag_curve_evaluate.py",
+        "line": 436
+      }
+    ]
+  },
+  "private_0ea01f8debbf02b4": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/src/05_bag_curve_evaluate.py",
+        "line": 493
+      }
+    ]
+  },
+  "private_f38a7a588fc0c10d": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/src/05_bag_curve_plot.py",
+        "line": 84
+      }
+    ]
+  },
+  "private_f25535167b9356d7": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/src/05_mil.py",
+        "line": 1937
+      }
+    ]
+  },
+  "private_8e2cf532e8264aec": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/src/05_mil.py",
+        "line": 1938
+      }
+    ]
+  },
+  "private_ee6d9683e4c22c9b": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/src/05_mil.py",
+        "line": 2096
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/src/99_final_acceptance.py",
+        "line": 362
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/src/99_final_acceptance.py",
+        "line": 1289
+      }
+    ]
+  },
+  "private_62deb35004db4a1b": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/src/05_mil.py",
+        "line": 2298
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/src/tests/test_99_final_acceptance.py",
+        "line": 242
+      }
+    ]
+  },
+  "private_2e439bd6a0651a3d": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/src/05_mil.py",
+        "line": 2300
+      }
+    ]
+  },
+  "private_2d712dab280e0a2d": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/src/05_mil.py",
+        "line": 2311
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/src/05_mil.py",
+        "line": 2327
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/src/05_mil.py",
+        "line": 2098
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/src/05_mil.py",
+        "line": 2110
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/src/99_final_acceptance.py",
+        "line": 375
+      }
+    ]
+  },
+  "private_3d9311639f5bcb17": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/src/05_mil.py",
+        "line": 2312
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/src/05_mil.py",
+        "line": 2111
+      }
+    ]
+  },
+  "private_6c34db28dbb3b20b": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/src/05_mil.py",
+        "line": 2309
+      }
+    ]
+  },
+  "private_365a4bb69941e1fd": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/src/05_mil.py",
+        "line": 2326
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/src/05_mil.py",
+        "line": 2089
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/src/99_final_acceptance.py",
+        "line": 374
+      }
+    ]
+  },
+  "private_ea693679178bbe32": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/src/05_mil.py",
+        "line": 260
+      }
+    ]
+  },
+  "private_4f9c3ed23d76a99d": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/src/05_mil.py",
+        "line": 2424
+      }
+    ]
+  },
+  "private_758302c106d4f094": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/src/05_mil.py",
+        "line": 285
+      }
+    ]
+  },
+  "private_8c7df61198dfc6dc": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/src/06_decision.py",
+        "line": 165
+      }
+    ]
+  },
+  "private_1f896173eac6fdce": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/src/06_decision.py",
+        "line": 450
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/src/99_final_acceptance.py",
+        "line": 1244
+      }
+    ]
+  },
+  "private_cbade51666a36565": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/src/06_decision.py",
+        "line": 451
+      }
+    ]
+  },
+  "private_ed9ac51b285950ae": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/src/06_decision.py",
+        "line": 1073
+      }
+    ]
+  },
+  "private_d0a5b9757ecf6eca": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/src/06_decision.py",
+        "line": 1092
+      }
+    ]
+  },
+  "private_5f4dbd867601bf8a": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/src/06_decision.py",
+        "line": 1098
+      }
+    ]
+  },
+  "private_1c8263f2d0aba9b5": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/src/06_decision.py",
+        "line": 438
+      }
+    ]
+  },
+  "private_48915bb53f9dce12": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/src/06_decision.py",
+        "line": 871
+      }
+    ]
+  },
+  "private_791f19752975e687": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/src/06_decision.py",
+        "line": 807
+      }
+    ]
+  },
+  "private_807d867103c7d064": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/src/06_decision.py",
+        "line": 172
+      }
+    ]
+  },
+  "private_06c11f45f4495fc7": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/src/99_final_acceptance.py",
+        "line": 239
+      }
+    ]
+  },
+  "private_a07ef4748839bf23": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/src/99_final_acceptance.py",
+        "line": 245
+      }
+    ]
+  },
+  "private_b25b4a34a419b5b8": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/src/99_final_acceptance.py",
+        "line": 266
+      }
+    ]
+  },
+  "private_78c270c6d51b3729": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/src/99_final_acceptance.py",
+        "line": 288
+      }
+    ]
+  },
+  "private_b02314bdf83279b9": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/src/99_final_acceptance.py",
+        "line": 295
+      }
+    ]
+  },
+  "private_770daacf7e739424": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/src/99_final_acceptance.py",
+        "line": 382
+      }
+    ]
+  },
+  "private_d78517ec0a6bc370": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/src/99_final_acceptance.py",
+        "line": 647
+      }
+    ]
+  },
+  "private_9aff820ad794c50c": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/src/99_final_acceptance.py",
+        "line": 1285
+      }
+    ]
+  },
+  "private_b41ab16bdc6eaa45": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/src/99_final_acceptance.py",
+        "line": 1286
+      }
+    ]
+  },
+  "private_f80e3ed550dc3d82": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/src/99_final_acceptance.py",
+        "line": 281
+      }
+    ]
+  },
+  "private_1a4bf3d44eaceb1d": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/src/tests/test_04c_group_sensitivities.py",
+        "line": 166
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/src/tests/test_04c_group_sensitivities.py",
+        "line": 167
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/src/tests/test_04c_group_sensitivities.py",
+        "line": 81
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/src/tests/test_04c_group_sensitivities.py",
+        "line": 95
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/src/tests/test_04c_group_sensitivities.py",
+        "line": 163
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/src/tests/test_04c_group_sensitivities.py",
+        "line": 163
+      }
+    ]
+  },
+  "private_2cb2e66bf01b6e4d": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/src/tests/test_04c_group_sensitivities.py",
+        "line": 169
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/src/tests/test_04c_group_sensitivities.py",
+        "line": 81
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/src/tests/test_04c_group_sensitivities.py",
+        "line": 97
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/src/tests/test_04c_group_sensitivities.py",
+        "line": 163
+      }
+    ]
+  },
+  "private_eee7123d7df78359": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/src/tests/test_04c_group_sensitivities.py",
+        "line": 95
+      }
+    ]
+  },
+  "private_39bbb48b2ee40966": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/src/tests/test_04c_group_sensitivities.py",
+        "line": 164
+      }
+    ]
+  },
+  "private_badbf6e7b446feb9": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/src/tests/test_04c_group_sensitivities.py",
+        "line": 164
+      }
+    ]
+  },
+  "private_fb1ebcd36c9eb1af": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/src/tests/test_06_decision.py",
+        "line": 654
+      },
+      {
+        "file": "source_tree/0929_caseEmbedding/src/tests/test_06_decision.py",
+        "line": 654
+      }
+    ]
+  },
+  "private_3d91b232aa13ed28": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/0929_caseEmbedding/src/tests/test_06_decision.py",
+        "line": 646
+      }
+    ]
+  },
+  "path_5fa1e30032a0d742": {
+    "section": "paths",
+    "type": "string",
+    "description": "Configured filesystem location",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261009_CMV/pn_ml_models/src/run_ml_battery.py",
+        "line": 32
+      }
+    ]
+  },
+  "path_6fe8b0cdaf15a381": {
+    "section": "paths",
+    "type": "string",
+    "description": "Configured filesystem location",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261009_CMV/pn_ml_models_merged/src/make_figures.py",
+        "line": 16
+      },
+      {
+        "file": "source_tree/20261009_CMV/pn_ml_models_merged/src/run_ml_battery_merged.py",
+        "line": 43
+      },
+      {
+        "file": "source_tree/20261009_CMV/repair_external_tstage.py",
+        "line": 27
+      },
+      {
+        "file": "source_tree/20261009_CMV/run_ml_battery_cohort.py",
+        "line": 47
+      },
+      {
+        "file": "source_tree/20261010_article_v25/20261009_ML_SHAP/src/build_cluster_tcr_features.py",
+        "line": 32
+      },
+      {
+        "file": "source_tree/20261010_article_v25/20261009_ML_SHAP/src/run_cluster_tcr_battery.py",
+        "line": 54
+      }
+    ]
+  },
+  "private_59cec1d6149c23a2": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261009_CMV/pn_ml_models_merged/src/make_figures.py",
+        "line": 65
+      }
+    ]
+  },
+  "path_a450e0588c0571ed": {
+    "section": "paths",
+    "type": "string",
+    "description": "Configured filesystem location",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261009_CMV/repair_external_tstage.py",
+        "line": 28
+      }
+    ]
+  },
+  "path_5bd48f922d960395": {
+    "section": "paths",
+    "type": "string",
+    "description": "Configured filesystem location",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261009_CMV/run_ml_battery_cohort.py",
+        "line": 48
+      },
+      {
+        "file": "source_tree/20261010_article_v25/20261009_ML_SHAP/src/run_cluster_tcr_battery.py",
+        "line": 55
+      }
+    ]
+  },
+  "path_d4455a6432ab939c": {
+    "section": "paths",
+    "type": "string",
+    "description": "Configured filesystem location",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261010_article_v25/20261009_ML_SHAP/src/build_cluster_tcr_features.py",
+        "line": 33
+      },
+      {
+        "file": "source_tree/20261010_article_v25/20261009_ML_SHAP/src/make_figures_v2.py",
+        "line": 41
+      },
+      {
+        "file": "source_tree/20261010_article_v25/20261009_ML_SHAP/src/run_cluster_tcr_battery.py",
+        "line": 56
+      },
+      {
+        "file": "source_tree/20261010_article_v25/revision_v27/ML_SHAP_corrected/scripts/repair_rf_shap.py",
+        "line": 26
+      }
+    ]
+  },
+  "path_0395fac586379350": {
+    "section": "paths",
+    "type": "string",
+    "description": "Configured filesystem location",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261010_article_v25/20261009_ML_SHAP/src/build_cluster_tcr_features.py",
+        "line": 54
+      }
+    ]
+  },
+  "path_266633c118edee4b": {
+    "section": "paths",
+    "type": "string",
+    "description": "Configured filesystem location",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261010_article_v25/20261009_ML_SHAP/src/build_cluster_tcr_features.py",
+        "line": 93
+      }
+    ]
+  },
+  "path_75e8856cd7fc1147": {
+    "section": "paths",
+    "type": "string",
+    "description": "Configured filesystem location",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261010_article_v25/20261009_ML_SHAP/src/make_figures_v2.py",
+        "line": 42
+      }
+    ]
+  },
+  "path_cbbb7df30be5e226": {
+    "section": "paths",
+    "type": "string",
+    "description": "Configured filesystem location",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261010_article_v25/Figure1A_redesign_20261012_v3/package_figure.py",
+        "line": 8
+      }
+    ]
+  },
+  "path_adb74c94d7c28564": {
+    "section": "paths",
+    "type": "string",
+    "description": "Configured filesystem location",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261010_article_v25/Figure1A_redesign_20261012_v3/package_figure.py",
+        "line": 9
+      }
+    ]
+  },
+  "path_ba45c484b7dabb43": {
+    "section": "paths",
+    "type": "string",
+    "description": "Configured filesystem location",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261010_article_v25/revision_v27/ML_SHAP_corrected/scripts/repair_rf_shap.py",
+        "line": 27
+      }
+    ]
+  },
+  "path_6f3f3692efa62d86": {
+    "section": "paths",
+    "type": "string",
+    "description": "Configured filesystem location",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261010_article_v25/revision_v27/ML_SHAP_corrected/scripts/repair_rf_shap.py",
+        "line": 28
+      },
+      {
+        "file": "source_tree/20261010_article_v25/revision_v27/ML_SHAP_corrected/scripts/verify_rf_shap.py",
+        "line": 14
+      }
+    ]
+  },
+  "path_965f22fbab7224cd": {
+    "section": "paths",
+    "type": "string",
+    "description": "Configured filesystem location",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261010_article_v25/revision_v27/scripts/analysis_v26/build_figure2_s1.py",
+        "line": 29
+      }
+    ]
+  },
+  "path_70fe814f385a17f4": {
+    "section": "paths",
+    "type": "string",
+    "description": "Configured filesystem location",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261018_article_v27/revision_20261018_v29/figure_package/build_figure_package.py",
+        "line": 13
+      }
+    ]
+  },
+  "private_6e848d2b6b25c025": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261018_article_v27/revision_20261018_v29/figure_package/build_figure_package.py",
+        "line": 57
+      }
+    ]
+  },
+  "private_7b2b8c6c640f6ec4": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/code/build_figure1.py",
+        "line": 35
+      }
+    ]
+  },
+  "private_b97b3407f39a4dae": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/code/build_figure1.py",
+        "line": 35
+      }
+    ]
+  },
+  "private_d65d731d5faa8e37": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/code/build_figure1.py",
+        "line": 49
+      }
+    ]
+  },
+  "private_ffdde0eb0d464546": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/code/nodal_compile.py",
+        "line": 50
+      }
+    ]
+  },
+  "private_7813074349acfd98": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/code/nodal_compile.py",
+        "line": 305
+      }
+    ]
+  },
+  "private_a4f5631faaabce54": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/code/nodal_compile.py",
+        "line": 220
+      }
+    ]
+  },
+  "private_f790cf2954f00e8e": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/code/nodal_compile.py",
+        "line": 231
+      }
+    ]
+  },
+  "private_12a465964cbacdca": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/code/nodal_compile.py",
+        "line": 242
+      }
+    ]
+  },
+  "private_6c0c84b0b9b09bba": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/code/nodal_compile.py",
+        "line": 261
+      }
+    ]
+  },
+  "private_467085283638cb35": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/code/nodal_compile.py",
+        "line": 269
+      }
+    ]
+  },
+  "private_ee39e252b75ee988": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/code/nodal_compile.py",
+        "line": 279
+      }
+    ]
+  },
+  "private_742ece63f29fe9c2": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/code/nodal_compile.py",
+        "line": 279
+      }
+    ]
+  },
+  "private_cb6f480a4310d09a": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/code/nodal_compile.py",
+        "line": 302
+      }
+    ]
+  },
+  "path_66f74a6f33432568": {
+    "section": "paths",
+    "type": "string",
+    "description": "Configured filesystem location",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/code/nodal_compile.py",
+        "line": 328
+      }
+    ]
+  },
+  "path_8fc8a0cf03b2a0bd": {
+    "section": "paths",
+    "type": "string",
+    "description": "Configured filesystem location",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/code/nodal_compile.py",
+        "line": 329
+      }
+    ]
+  },
+  "private_5db4a27593ef5a10": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/code/nodal_compile.py",
+        "line": 100
+      }
+    ]
+  },
+  "private_a2d7a4547c61077d": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/code/nodal_compile.py",
+        "line": 115
+      }
+    ]
+  },
+  "path_68a2163223ec1f2b": {
+    "section": "paths",
+    "type": "string",
+    "description": "Configured filesystem location",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/code/q1_consolidate.py",
+        "line": 29
+      }
+    ]
+  },
+  "private_f3614a54acd1f97f": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/code/q1_consolidate.py",
+        "line": 145
+      }
+    ]
+  },
+  "private_dbdb69805a7b4622": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/code/q1_consolidate.py",
+        "line": 89
+      }
+    ]
+  },
+  "path_28a639412ba9fc57": {
+    "section": "paths",
+    "type": "string",
+    "description": "Configured filesystem location",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/code/q1_consolidate.py",
+        "line": 97
+      }
+    ]
+  },
+  "path_ab9dd0e0159dec18": {
+    "section": "paths",
+    "type": "string",
+    "description": "Configured filesystem location",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/code/q1_provenance_reconcile.py",
+        "line": 15
+      },
+      {
+        "file": "source_tree/20261003_paper_v2/code/q1_reference_query.py",
+        "line": 19
+      },
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v11/nodal_metrics_v11.py",
+        "line": 11
+      },
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v11/nodal_report_v11.py",
+        "line": 8
+      }
+    ]
+  },
+  "path_7eadc32ff9f83e41": {
+    "section": "paths",
+    "type": "string",
+    "description": "Configured filesystem location",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/code/q1_reference_query.py",
+        "line": 22
+      }
+    ]
+  },
+  "private_bb4580532748e494": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/code/q1_reference_query.py",
+        "line": 63
+      }
+    ]
+  },
+  "private_044ace73522ed623": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v11/nodal_metrics_v11.py",
+        "line": 89
+      },
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v7/v7_q1_depth_n.py",
+        "line": 55
+      },
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v7/v7_q1_depth_n.py",
+        "line": 56
+      },
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v7/v7_q1_depth_n.py",
+        "line": 150
+      },
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v7/v7_q1_depth_n.py",
+        "line": 60
+      },
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v7/v7_q1_depth_n.py",
+        "line": 192
+      },
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v7/v7_q1_depth_n.py",
+        "line": 150
+      },
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v7/v7_q1_depth_n.py",
+        "line": 195
+      },
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v7/v7_q1_depth_n_models.py",
+        "line": 100
+      }
+    ]
+  },
+  "private_fe6baae1ef7ff492": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v11/nodal_report_v11.py",
+        "line": 65
+      }
+    ]
+  },
+  "private_739f3b1c818e52c1": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v11/nodal_report_v11.py",
+        "line": 35
+      }
+    ]
+  },
+  "private_7e027ebbcb151784": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v11/nodal_report_v11.py",
+        "line": 35
+      },
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v7/v7_q1_depth_n.py",
+        "line": 70
+      },
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v7/v7_q1_depth_n.py",
+        "line": 150
+      },
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v7/v7_q1_depth_n.py",
+        "line": 156
+      }
+    ]
+  },
+  "private_b3445b7fc78bf2f0": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v6/v6_candidate_audit.py",
+        "line": 13
+      },
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v6/v6_candidate_verify.py",
+        "line": 37
+      },
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/assemble.py",
+        "line": 390
+      },
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/audit_nucleotide_variants_v17.py",
+        "line": 18
+      },
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/compute_antigen_ergo_v19.py",
+        "line": 57
+      },
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/compute_antigen_rankings_v19.py",
+        "line": 47
+      }
+    ]
+  },
+  "private_c287d28aaf0e9d7c": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v6/v6_candidate_audit.py",
+        "line": 14
+      },
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v6/v6_candidate_verify.py",
+        "line": 37
+      },
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/antigen_predictions_v17.py",
+        "line": 20
+      },
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/audit_nucleotide_variants_v17.py",
+        "line": 19
+      }
+    ]
+  },
+  "private_d160bae090c0c274": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v6/v6_candidate_audit.py",
+        "line": 117
+      },
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v6/v6_candidate_audit.py",
+        "line": 270
+      },
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v6/v6_candidate_verify.py",
+        "line": 55
+      },
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v7/v7_q1_depth_n.py",
+        "line": 55
+      }
+    ]
+  },
+  "private_a70effc21f3daa7e": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v6/v6_candidate_audit.py",
+        "line": 129
+      },
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v6/v6_candidate_figures.py",
+        "line": 21
+      },
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v6/v6_candidate_figures.py",
+        "line": 87
+      }
+    ]
+  },
+  "private_e3efc0198a793713": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v6/v6_candidate_audit.py",
+        "line": 122
+      },
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v6/v6_candidate_audit.py",
+        "line": 153
+      },
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v6/v6_candidate_audit.py",
+        "line": 271
+      }
+    ]
+  },
+  "private_5ce1ee9ae0939c19": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v6/v6_candidate_audit.py",
+        "line": 257
+      }
+    ]
+  },
+  "private_72c03d3b9a1a2c27": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v6/v6_candidate_audit.py",
+        "line": 79
+      }
+    ]
+  },
+  "private_f2694ea139ba5288": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v6/v6_candidate_audit.py",
+        "line": 273
+      }
+    ]
+  },
+  "private_a6f1aefd9679b2de": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v6/v6_candidate_audit.py",
+        "line": 273
+      }
+    ]
+  },
+  "private_e119b1550617ebf5": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v6/v6_candidate_audit.py",
+        "line": 273
+      }
+    ]
+  },
+  "private_cd5fefd6140659d7": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v6/v6_candidate_figures.py",
+        "line": 91
+      }
+    ]
+  },
+  "private_f6ef0975ee558a9e": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v6/v6_candidate_figures.py",
+        "line": 94
+      }
+    ]
+  },
+  "private_5b4884ccaa8cb2a2": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v6/v6_candidate_finalize.py",
+        "line": 7
+      }
+    ]
+  },
+  "private_18282049cbf0192b": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v6/v6_candidate_verify.py",
+        "line": 61
+      }
+    ]
+  },
+  "path_38c4da8147aa1485": {
+    "section": "paths",
+    "type": "string",
+    "description": "Configured filesystem location",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v6/v6_overview_figures.py",
+        "line": 16
+      },
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v6/v6_representation_figure.py",
+        "line": 21
+      }
+    ]
+  },
+  "private_33b1c1e2dc1ff0bc": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v6/v6_overview_figures.py",
+        "line": 122
+      }
+    ]
+  },
+  "private_5bd662e461b575cc": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v6/v6_overview_figures.py",
+        "line": 127
+      }
+    ]
+  },
+  "private_31ad41a25e94c0f6": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v6/v6_overview_figures.py",
+        "line": 134
+      }
+    ]
+  },
+  "private_7c99a2c5aec51613": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v6/v6_overview_figures.py",
+        "line": 149
+      },
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v6/v6_overview_figures.py",
+        "line": 148
+      }
+    ]
+  },
+  "private_a63a034a50f81e72": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v6/v6_overview_figures.py",
+        "line": 216
+      }
+    ]
+  },
+  "path_4bbe6e708c37abce": {
+    "section": "paths",
+    "type": "string",
+    "description": "Configured filesystem location",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v6/v6_representation_figure.py",
+        "line": 42
+      }
+    ]
+  },
+  "path_53d7a6a979f86dbd": {
+    "section": "paths",
+    "type": "string",
+    "description": "Configured filesystem location",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v7/v7_q1_depth_n.py",
+        "line": 17
+      },
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v7/v7_q1_depth_n_finalize.py",
+        "line": 8
+      },
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v7/v7_q1_depth_n_models.py",
+        "line": 14
+      },
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v7/v7_q1_depth_n_verify.py",
+        "line": 13
+      }
+    ]
+  },
+  "private_aa2c97c2247fa9b0": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v7/v7_q1_depth_n.py",
+        "line": 70
+      }
+    ]
+  },
+  "private_d54419bd68c77be2": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v7/v7_q1_depth_n.py",
+        "line": 195
+      },
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v7/v7_q1_depth_n.py",
+        "line": 219
+      },
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v7/v7_q1_depth_n_finalize.py",
+        "line": 35
+      }
+    ]
+  },
+  "private_64e7d1af46736e41": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v7/v7_q1_depth_n_finalize.py",
+        "line": 44
+      }
+    ]
+  },
+  "private_b276c97a1c27c2e9": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v7/v7_q1_depth_n_finalize.py",
+        "line": 43
+      }
+    ]
+  },
+  "private_deed361bb247a2ee": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v7/v7_q1_depth_n_models.py",
+        "line": 100
+      }
+    ]
+  },
+  "private_0aaed32975466b1c": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v7/v7_q1_depth_n_models.py",
+        "line": 100
+      }
+    ]
+  },
+  "private_912a5adfd3adbca0": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v7/v7_q1_depth_n_models.py",
+        "line": 103
+      }
+    ]
+  },
+  "private_c503b7b137033de5": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v7/v7_q1_depth_n_models.py",
+        "line": 92
+      }
+    ]
+  },
+  "private_e9fa51b1e2aebc3e": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v7/v7_q1_depth_n_models.py",
+        "line": 102
+      }
+    ]
+  },
+  "path_1757610fc64073d4": {
+    "section": "paths",
+    "type": "string",
+    "description": "Configured filesystem location",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/antigen_predictions_v17.py",
+        "line": 14
+      },
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/audit_nucleotide_variants_v17.py",
+        "line": 14
+      }
+    ]
+  },
+  "private_ff1a6ad26dad5d79": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/antigen_predictions_v17.py",
+        "line": 96
+      }
+    ]
+  },
+  "private_0e46635da4c0e3db": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/antigen_predictions_v17.py",
+        "line": 197
+      }
+    ]
+  },
+  "private_bb4a9dae21569c81": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/antigen_predictions_v17.py",
+        "line": 197
+      }
+    ]
+  },
+  "private_bff3bf900e21e4ab": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/antigen_predictions_v17.py",
+        "line": 143
+      }
+    ]
+  },
+  "private_69b27d9fc82ce4cb": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/antigen_predictions_v17.py",
+        "line": 131
+      }
+    ]
+  },
+  "path_052a3da416b1c4ab": {
+    "section": "paths",
+    "type": "string",
+    "description": "Configured filesystem location",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/assemble.py",
+        "line": 21
+      },
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/plot_figure2_v20.py",
+        "line": 28
+      },
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/plot_supplement_v20.py",
+        "line": 15
+      },
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/prepare_source_additions_v20.py",
+        "line": 11
+      },
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/revision_config.py",
+        "line": 7
+      }
+    ]
+  },
+  "private_65dfa2568eca636c": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/audit_nucleotide_variants_v17.py",
+        "line": 83
+      }
+    ]
+  },
+  "private_21c590a43840c523": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/audit_nucleotide_variants_v17.py",
+        "line": 91
+      }
+    ]
+  },
+  "private_827b234467a8acd2": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/audit_nucleotide_variants_v17.py",
+        "line": 91
+      }
+    ]
+  },
+  "private_5f67e5042cefd06c": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/audit_nucleotide_variants_v17.py",
+        "line": 91
+      }
+    ]
+  },
+  "private_3bffaf03de092b0e": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/audit_nucleotide_variants_v17.py",
+        "line": 91
+      }
+    ]
+  },
+  "private_223046319a02e8b7": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/audit_nucleotide_variants_v17.py",
+        "line": 91
+      }
+    ]
+  },
+  "private_8fe261d63301b0ae": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/audit_nucleotide_variants_v17.py",
+        "line": 91
+      }
+    ]
+  },
+  "private_0205e4363adb0bf7": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/audit_nucleotide_variants_v17.py",
+        "line": 21
+      }
+    ]
+  },
+  "private_f337b5ef8e62afd0": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/audit_nucleotide_variants_v17.py",
+        "line": 22
+      }
+    ]
+  },
+  "private_4327e40ea7f8c48d": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/audit_nucleotide_variants_v17.py",
+        "line": 23
+      }
+    ]
+  },
+  "private_c0fbf36bb41bdffa": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/audit_nucleotide_variants_v17.py",
+        "line": 199
+      }
+    ]
+  },
+  "private_230496dad7ebf306": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/audit_nucleotide_variants_v17.py",
+        "line": 20
+      }
+    ]
+  },
+  "private_cae7797d04c0bac5": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/audit_nucleotide_variants_v17.py",
+        "line": 59
+      }
+    ]
+  },
+  "private_fd75ca947247e42a": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/audit_nucleotide_variants_v17.py",
+        "line": 140
+      }
+    ]
+  },
+  "path_cb804fa1168cd06e": {
+    "section": "paths",
+    "type": "string",
+    "description": "Configured filesystem location",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/audit_nucleotide_variants_v17.py",
+        "line": 34
+      }
+    ]
+  },
+  "private_fe0e67fd64625b27": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/audit_nucleotide_variants_v17.py",
+        "line": 70
+      }
+    ]
+  },
+  "private_a6e9b00b7bc1ebc5": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/audit_nucleotide_variants_v17.py",
+        "line": 131
+      },
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/audit_nucleotide_variants_v17.py",
+        "line": 80
+      },
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/audit_nucleotide_variants_v17.py",
+        "line": 132
+      }
+    ]
+  },
+  "private_575834fa6c76deab": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/audit_nucleotide_variants_v17.py",
+        "line": 137
+      }
+    ]
+  },
+  "private_ff4aabaf338f256e": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/compute_antigen_ergo_v19.py",
+        "line": 42
+      }
+    ]
+  },
+  "path_d64669660f1883f0": {
+    "section": "paths",
+    "type": "string",
+    "description": "Configured filesystem location",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/compute_antigen_ergo_v19.py",
+        "line": 15
+      },
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/compute_antigen_rankings_v19.py",
+        "line": 12
+      }
+    ]
+  },
+  "path_65b2261e498be9b9": {
+    "section": "paths",
+    "type": "string",
+    "description": "Configured filesystem location",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/compute_antigen_ergo_v19.py",
+        "line": 16
+      },
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/compute_antigen_rankings_v19.py",
+        "line": 13
+      }
+    ]
+  },
+  "path_2f6a196b03809909": {
+    "section": "paths",
+    "type": "string",
+    "description": "Configured filesystem location",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/compute_antigen_rankings_v19.py",
+        "line": 14
+      }
+    ]
+  },
+  "private_77ce437f1ad1b80a": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/compute_antigen_rankings_v19.py",
+        "line": 40
+      }
+    ]
+  },
+  "private_4b65269d3e4095d6": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/plot_supplement_v20.py",
+        "line": 233
+      }
+    ]
+  },
+  "private_56f70c522e8a03fa": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact original private literal; retain byte-for-byte value for reproducibility",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/plot_supplement_v20.py",
+        "line": 82
+      }
+    ]
+  },
+  "private_5b340947280f76b5": {
+    "section": "private_literals",
+    "type": "string",
+    "description": "Exact external function attribute name for the selected-subject sensitivity mask",
+    "usage_sites": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v11/nodal_metrics_v11.py",
+        "line": 89
+      }
+    ]
+  }
+}

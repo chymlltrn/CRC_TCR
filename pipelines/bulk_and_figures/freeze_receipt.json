@@ -1,0 +1,27 @@
+{
+  "frozen_utc": "2026-10-18T09:38:39.027563+00:00",
+  "source_scripts": 119,
+  "python_source_scripts": 118,
+  "shell_source_scripts": 1,
+  "private_literal_fields": 165,
+  "external_path_fields": 47,
+  "normalized_ast_and_syntax": "PASS",
+  "runtime_tests": {
+    "passed": 6,
+    "failed": 0
+  },
+  "scientific_execution": "not run",
+  "release_scope": "Bulk analysis and figure components; no data, matrices, observed biological literals, clinical records, figures or fitted models",
+  "archival_only_removed_entrypoints": [
+    "serial_run.py",
+    "plot_figure5_v20.py",
+    "verify_package.py",
+    "run_shap_clustertcr.py"
+  ],
+  "manifest": "source_manifest.json",
+  "validation": "validation_report.json",
+  "checksum_list": "SHA256SUMS.txt",
+  "originals_preserved": true,
+  "last_reviewed_utc": "2026-10-21T01:18:32.184589+00:00",
+  "public_identifier_review": "PASS; see PUBLIC_RELEASE_VALIDATION.md and validation_report.json"
+}

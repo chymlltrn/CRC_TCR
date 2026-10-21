@@ -1,0 +1,83 @@
+{
+  "status": "PASS_BOUNDED_RELEASE_VALIDATION",
+  "timestamp_utc": "2026-10-18T09:36:59.715210+00:00",
+  "source_manifest_sha256": "9a4be1eaa075aa7d7ee9e57e5de38390d7ce8a7bcb2e6f7e3081f0b2a425fb60",
+  "source_files": 24,
+  "local_originals_sha_verified": 17,
+  "remote_sources": 7,
+  "python": "3.10.12 (main, May 27 2025, 17:12:29) [GCC 11.4.0]",
+  "versions": {
+    "numpy": "1.26.4",
+    "pandas": "2.1.4",
+    "scipy": "1.13.0",
+    "pyarrow": "23.0.1",
+    "biopython": "1.79",
+    "statsmodels": "0.14.3"
+  },
+  "scientific_inputs_read": false,
+  "scientific_analyses_rerun": false,
+  "privacy_scan": {
+    "status": "PASS",
+    "actual_patient_library_literals_found": 0,
+    "absolute_host_paths_in_code_and_schemas": 0,
+    "unexpected_data_or_binary_files": 0,
+    "credentials": "No credential literals observed; token occurrences reviewed as matrix/gene/hash identifiers."
+  },
+  "synthetic_protocol_note": "End-to-end synthetic test uses a synthetic protocol and matching in-memory PROTOCOL_SHA; production source hash checks unchanged. Initial setup failures were missing synthetic directories/protocol, now supplied.",
+  "limitations": [
+    "Scientific data/protocol availability not tested end-to-end. Historical source protocol hash check was replaced only in the synthetic harness with its synthetic protocol hash; production code enforcement is unchanged.",
+    "Top-level data-consuming scripts syntax checked, not imported against actual inputs.",
+    "Full UMAP and downstream figures were not regenerated; final artwork uses separate assembly.",
+    "Some historical server_data intermediates absent from local v2 snapshot; archive report explicitly lists gaps."
+  ],
+  "steps": [
+    {
+      "name": "config_interface",
+      "status": "PASS",
+      "checks": null,
+      "seconds": 0.043
+    },
+    {
+      "name": "python_release_interfaces",
+      "status": "PASS",
+      "checks": 8,
+      "seconds": 0.202
+    },
+    {
+      "name": "bulk_matching_synthetic",
+      "status": "PASS",
+      "checks": 4,
+      "seconds": 0.654
+    },
+    {
+      "name": "patient_statistics_synthetic",
+      "status": "PASS",
+      "checks": 10,
+      "seconds": 5.869
+    },
+    {
+      "name": "cohort_sharing_synthetic",
+      "status": "PASS",
+      "checks": 13,
+      "seconds": 0.438
+    },
+    {
+      "name": "phenotypes_bridge_synthetic",
+      "status": "PASS",
+      "checks": 13,
+      "seconds": 14.133
+    },
+    {
+      "name": "cpp_compile",
+      "status": "PASS",
+      "checks": null,
+      "seconds": 2.725
+    },
+    {
+      "name": "cpp_stream_count_fixture",
+      "status": "PASS",
+      "checks": 3,
+      "seconds": 0.856
+    }
+  ]
+}

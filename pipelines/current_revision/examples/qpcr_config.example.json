@@ -1,0 +1,19 @@
+{
+  "cohorts": {
+    "CRC": [
+      "SYNTH_CASE_A",
+      "SYNTH_CASE_B"
+    ],
+    "Healthy": [
+      "SYNTH_CONTROL_A",
+      "SYNTH_CONTROL_B"
+    ]
+  },
+  "whole_sample_exclusions": [
+    "SYNTH_EXCLUDED"
+  ],
+  "expected_nd_sample_ids": [
+    "SYNTH_CASE_B"
+  ],
+  "drop_well_columns": []
+}

@@ -1,0 +1,954 @@
+[
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/atlas_340/antigen_selected_20261003/tools/src/selected_gliph_evidence.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/atlas_340/antigen_selected_20261003/tools/src/selected_gliph_evidence.py",
+    "original_sha256": "d970fac59e16eadf46991b4be782075e208cc88f7b83536f0e24b5fc1ef5da90",
+    "release_sha256": "630dd43568d473663875dfd42b863aa9f756658613724a3938084d8bfe059279",
+    "adaptation_count": 3
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/atlas_340/antigen_selected_20261003/tools/src/selected_tcrdist_evidence.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/atlas_340/antigen_selected_20261003/tools/src/selected_tcrdist_evidence.py",
+    "original_sha256": "4061303bf12cac7df433be9f9fe2db8bc1a43b755aceed2bd6af8aa871713cd3",
+    "release_sha256": "ebec3625db03f321e62df438fb64dd4560ca7415f0744fd233c9cb355c149f47",
+    "adaptation_count": 2
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/atlas_340/antigen_selected_20261003/tools/src/selected_tools_finalize.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/atlas_340/antigen_selected_20261003/tools/src/selected_tools_finalize.py",
+    "original_sha256": "e4ca331603e594d0d7dbbd77db8ba264bce36351c1b0666d84288c12be4aa9ea",
+    "release_sha256": "c75e465dbf9b0c16c3e96027b920b3f5f1c0d98cb8f95fb4c86320a6ddc0a0a1",
+    "adaptation_count": 4
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/atlas_340/leiden_full_20261001/n_bias_20261002/src/cluster_n_bias.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/atlas_340/leiden_full_20261001/n_bias_20261002/src/cluster_n_bias.py",
+    "original_sha256": "990d1fb88e09093458666e3c878e26b3ec00940626de832612c550c7b752bbcd",
+    "release_sha256": "9638fd458c222f50e91d5103bb19340358890df281c175a48fbaabfe22aa683f",
+    "adaptation_count": 5
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/atlas_340/leiden_full_20261001/src/finalize_counts.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/atlas_340/leiden_full_20261001/src/finalize_counts.py",
+    "original_sha256": "deba3e8a3914e6d8dff35238db201bc2d6444f1119a2c969c192f5680ab44960",
+    "release_sha256": "20b4a99e191fd9e171a26f0ed3c3eba509c9d23cdbec7ca36d040aaf3a99feb4",
+    "adaptation_count": 2
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/atlas_340/leiden_full_20261001/src/full_leiden_graph.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/atlas_340/leiden_full_20261001/src/full_leiden_graph.py",
+    "original_sha256": "8a77068895ff8d5f99c52cf3325f2217569103da52f42fec1687a1f210718eb6",
+    "release_sha256": "36637019b93d139aafbc1b51efc84a364a1ea71ebd9c2009b2f9de66a36c0342",
+    "adaptation_count": 1
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/atlas_340/leiden_full_20261001/src/geometry_diagnostic.initial.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/atlas_340/leiden_full_20261001/src/geometry_diagnostic.initial.py",
+    "original_sha256": "95af18ccd5cd7b1cb2ad466cc3253eda3092339ec1681255cd0ea3615162864c",
+    "release_sha256": "95af18ccd5cd7b1cb2ad466cc3253eda3092339ec1681255cd0ea3615162864c",
+    "adaptation_count": 0
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/atlas_340/leiden_full_20261001/src/geometry_diagnostic.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/atlas_340/leiden_full_20261001/src/geometry_diagnostic.py",
+    "original_sha256": "024311fdba19fa988074aeca797578dbd19ef1123992e37b22c68d0e08cadb08",
+    "release_sha256": "024311fdba19fa988074aeca797578dbd19ef1123992e37b22c68d0e08cadb08",
+    "adaptation_count": 0
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/atlas_340/leiden_full_20261001/src/patient_cluster_stats.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/atlas_340/leiden_full_20261001/src/patient_cluster_stats.py",
+    "original_sha256": "ff9f1a01dfbfb87d89ad6373d68a184fcbd750c062ea40ada83cd1c6bbb3c381",
+    "release_sha256": "a00e7e9970f0ce51f7b68fdd9706b47c3ffbdd513c1888912d0aa782136220a7",
+    "adaptation_count": 1
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/atlas_340/leiden_full_20261001/src/prefetch_bank.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/atlas_340/leiden_full_20261001/src/prefetch_bank.py",
+    "original_sha256": "adbf32e1d3365552bd9447d2a2cb1eec179bfb35b1aa730fd24863de431f1147",
+    "release_sha256": "adbf32e1d3365552bd9447d2a2cb1eec179bfb35b1aa730fd24863de431f1147",
+    "adaptation_count": 0
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/atlas_340/leiden_full_sceptr_20261002/src/full_leiden_graph.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/atlas_340/leiden_full_sceptr_20261002/src/full_leiden_graph.py",
+    "original_sha256": "f1533cca1c12b409c1cdb1d3f064bc96d7c8eacd9c442b10072b4ee71666ac5d",
+    "release_sha256": "fd33536268b4e8162ed46edbe783491d053ca858965633f896a84280afa44ded",
+    "adaptation_count": 1
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/atlas_340/leiden_full_sceptr_20261002/src/queue_run.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/atlas_340/leiden_full_sceptr_20261002/src/queue_run.py",
+    "original_sha256": "7e6a9d53a03ce741b618df2947649c1fbebaae595829da88e28376c23a3c8c01",
+    "release_sha256": "7b8f63f4cf062441c229dd08c0c03e846f527dc3b137a6ab36522101e897ab69",
+    "adaptation_count": 1
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/atlas_340/leiden_full_sceptr_20261002/src/test_queue.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/atlas_340/leiden_full_sceptr_20261002/src/test_queue.py",
+    "original_sha256": "b151517885203379264871b290bb6a010e5bb9ba021eb5e680526e6f9e71d607",
+    "release_sha256": "b151517885203379264871b290bb6a010e5bb9ba021eb5e680526e6f9e71d607",
+    "adaptation_count": 0
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/atlas_340/leiden_full_sceptr_20261002/src/validate_outputs.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/atlas_340/leiden_full_sceptr_20261002/src/validate_outputs.py",
+    "original_sha256": "315bc3302ca073b2e196f88d74beb0180ce070dd2518c818f0f7d7f72d9e39e4",
+    "release_sha256": "9699115f89e0c9182b6aabd7acd8988b166e345cc75f562da4aecca36132405f",
+    "adaptation_count": 1
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/atlas_340/pooled_N_20261003/src/analyze_pooled.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/atlas_340/pooled_N_20261003/src/analyze_pooled.py",
+    "original_sha256": "ca7e57d5ac7947883086373cdd1b82e6f6c50f00a36d8400ff7615db7fff5588",
+    "release_sha256": "8fbd17577d44db9419b88eef6a16e3b365a69249991dea7146e5cb942be3b4f8",
+    "adaptation_count": 1
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/atlas_340/src/01_ingest.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/atlas_340/src/01_ingest.py",
+    "original_sha256": "5da76885db46032a35d8a5d693b1e70039fd4073cec9446d944cfe10da7e0bb3",
+    "release_sha256": "5a07cf86858924dd0e0afb8cb251c25646d18f54c54d9dbe2d99279c3aa2fc33",
+    "adaptation_count": 20
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/atlas_340/src/01_resource_monitor.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/atlas_340/src/01_resource_monitor.py",
+    "original_sha256": "bf0cfac700cca26456bb64dadb5fe548a4ef6a15ace018bce8ba150b0c0c7456",
+    "release_sha256": "edb6a99868bdcb14cf801a6dca7b77f372806052e8fb3937c797668757a5b15a",
+    "adaptation_count": 1
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/atlas_340/src/01_validate.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/atlas_340/src/01_validate.py",
+    "original_sha256": "365aa7a7ef861c86c18283d24d9fbb52f7081f13f45e29c4979a9e8a505c822e",
+    "release_sha256": "22e2541c309ac98d093e2440cc19e7decfa648ac5a11e80598c66d4164b3a49c",
+    "adaptation_count": 4
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/atlas_340/src/02_extend_embeddings.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/atlas_340/src/02_extend_embeddings.py",
+    "original_sha256": "f5836fa02cae399df1ae9d4f751bce299570466cf47a2962bf9a6c0810ba939c",
+    "release_sha256": "d20d080fb66423eb75e002e8ac8583511c701808cf3d89a7a5e54e911b824811",
+    "adaptation_count": 2
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/atlas_340/src/03_atlas.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/atlas_340/src/03_atlas.py",
+    "original_sha256": "607caa835fd1b454317adaa865e06ea9b0d1fd98c36982397339ca1d0ce41404",
+    "release_sha256": "7cf4d0540a0cc64d1e1a533253512c8ed722a617090794764869c81957b297fe",
+    "adaptation_count": 1
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/atlas_340/src/03_atlas_figures.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/atlas_340/src/03_atlas_figures.py",
+    "original_sha256": "52abcffdafe9e47ef7bd91f1911e9a1959be397881c325b52c54fdd64705a3e3",
+    "release_sha256": "6f1a445dc6b8e5037c60cabc01450634ab0ad1151f3f524238e04d1826089296",
+    "adaptation_count": 1
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/atlas_340/src/03_batch_report.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/atlas_340/src/03_batch_report.py",
+    "original_sha256": "0eb62f690ac3045af925e48aa8d765e29a03d4b9d99518d7a71747136f01295f",
+    "release_sha256": "a899a363c8e5fa2c112e2c8e970eb3412453f320c63403c2a61073168f2e159d",
+    "adaptation_count": 1
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/atlas_340/src/03_folds.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/atlas_340/src/03_folds.py",
+    "original_sha256": "a02764a267b74673d0d7ff3180cb1a12a17f15b742e9d53b3500e4b6850137c2",
+    "release_sha256": "42de0e4c659e060d75103b6d7798a08c5f7a39e39f97118a26e5d17292a6b4a6",
+    "adaptation_count": 1
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/atlas_340/src/03_render_atlas_umap.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/atlas_340/src/03_render_atlas_umap.py",
+    "original_sha256": "d1606e5d2a391dd58057f3d5f63022081cdce57025124588c7bf8318434b1cb9",
+    "release_sha256": "a162801b4ce40f6cbbb6189c0a8b1d7d84551ca2a8a0b770e57b5577abe935be",
+    "adaptation_count": 1
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/atlas_340/src/03_vector_batch.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/atlas_340/src/03_vector_batch.py",
+    "original_sha256": "1c3f610949aad81a0fd1a7569378cab28d5c41e0b6303f3e29fd91849c3e5fc8",
+    "release_sha256": "fb142c277f9dcc6595e371ac3c925741e7fb6a3b4764a74265c4c5b03c0b33e1",
+    "adaptation_count": 1
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/atlas_340/src/04_embedding_neighborhood.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/atlas_340/src/04_embedding_neighborhood.py",
+    "original_sha256": "59cf8e336542bde070e8f74779eba95710b511a64e7b3d125848467dc64e9602",
+    "release_sha256": "ee224e053a1540a063b714d1e06e66c06cc155a9b268dcac34620fe27c491443",
+    "adaptation_count": 1
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/atlas_340/src/04_groups_stats.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/atlas_340/src/04_groups_stats.py",
+    "original_sha256": "d388051258f56712e5b38d5931829abadb0fefeddfd678a5828854c2b999bbc4",
+    "release_sha256": "ea7c9a8fa5255fbcc1ca84bb8f801fe48b25224be71a7c03fe6d24f93f364cad",
+    "adaptation_count": 11
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/atlas_340/src/04_record_tcrdist_stop.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/atlas_340/src/04_record_tcrdist_stop.py",
+    "original_sha256": "abcd01eb45fd084f5b415573a6378e97ea9a1177e961851fc86805873ecc7bd1",
+    "release_sha256": "abcd01eb45fd084f5b415573a6378e97ea9a1177e961851fc86805873ecc7bd1",
+    "adaptation_count": 0
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/atlas_340/src/04b_tcrdist_projection.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/atlas_340/src/04b_tcrdist_projection.py",
+    "original_sha256": "8a438afdb174906172dcedcc86c380d984a8b97f3017579a7478cafff5fdbc9e",
+    "release_sha256": "9dcc6b24883b1db8e340dd1e708c789e5a119d867b6efac240c0a6c2d09369a8",
+    "adaptation_count": 3
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/atlas_340/src/05_ablation.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/atlas_340/src/05_ablation.py",
+    "original_sha256": "18135a893c6ff10adcb33f8d561ba735dc6afcd1860781acd0ee742ea0eaab2f",
+    "release_sha256": "fe907aff1f269e29e0fa28debc492d341da7bb9e474ea2873cdfd83399bbfaf5",
+    "adaptation_count": 1
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/atlas_340/src/05_association.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/atlas_340/src/05_association.py",
+    "original_sha256": "d01a583cbe38dd61972fe19e8323ce4723f4e209e51012aa80aee07188a3c003",
+    "release_sha256": "d01a583cbe38dd61972fe19e8323ce4723f4e209e51012aa80aee07188a3c003",
+    "adaptation_count": 0
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/atlas_340/src/05_decision.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/atlas_340/src/05_decision.py",
+    "original_sha256": "6c93bfff5ce16926a8b793e04fd0ebfe5e09415ac3417101d6c96da0c8f0a8a6",
+    "release_sha256": "99496f686b3ad99d82fa3d30c4629c6511c43d650ea2578717bbf66f75c7567f",
+    "adaptation_count": 1
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/atlas_340/src/05_external.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/atlas_340/src/05_external.py",
+    "original_sha256": "862e3f0ae8f5ef75eebdfc805e3009a237923a9b74a1dc9f3a201839ba6a7bfb",
+    "release_sha256": "69d8c21209fd6a66ec57a4e2607a290185229bcd495ef2674d807555356649ce",
+    "adaptation_count": 1
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/atlas_340/src/05_predictive.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/atlas_340/src/05_predictive.py",
+    "original_sha256": "dae0cbd307c432ebe44a1d141165561e7b1b1c4c6f915d29834b3856e2192e80",
+    "release_sha256": "d46a0681f52ddc62f95aa761388d7ce1d8a6d29baccf44b9eda0189d51cd8c3b",
+    "adaptation_count": 1
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/atlas_340/src/05_sensitivity.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/atlas_340/src/05_sensitivity.py",
+    "original_sha256": "b07a4bc28a00cee4ca51b68173cf5180595b6c469724a492de8543ca6f85192f",
+    "release_sha256": "75c107ffe2fa634d823cbe782ccce0e3b0b6e6cfd6f8371ae682921abf696f0c",
+    "adaptation_count": 1
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/atlas_340/src/06_antigen.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/atlas_340/src/06_antigen.py",
+    "original_sha256": "97c8b264ce677cad6e69826b430ea57d484db5de2b9ef52d3d59df6710e39c56",
+    "release_sha256": "40e31aecd2298069dd180ac4bc88cce8cd913bcbb39cf95655fa81e2a31a73fb",
+    "adaptation_count": 10
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/atlas_340/src/07_run_after_pilots.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/atlas_340/src/07_run_after_pilots.py",
+    "original_sha256": "256275ba8a60b43eb00c7ffed4c4a9ac3cb661e3623a75898791049a930e802f",
+    "release_sha256": "02c8475bebfdedb4c46296129562d1de7b28d3fbb00e0321839879979b40b515",
+    "adaptation_count": 1
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/atlas_340/src/08_bag_capture.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/atlas_340/src/08_bag_capture.py",
+    "original_sha256": "bbb98786138d232417649ff90e35506749d971ea1b8c434075e79bf9e4ebfc66",
+    "release_sha256": "91e8c486c34ee6a73b7599890f41fa7fbed41b7652d5b200de2e6871640c1fa3",
+    "adaptation_count": 1
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/atlas_340/src/08_baseline.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/atlas_340/src/08_baseline.py",
+    "original_sha256": "4ce9273920636a093d850db58cc6d95c126dc48ec67da92aa6f96082ba53bcf5",
+    "release_sha256": "e8432d45cae532c8a9e475526a9e2a16123d2ec811d0202795cda2b18c2c553f",
+    "adaptation_count": 1
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/atlas_340/src/08_baseline_l2.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/atlas_340/src/08_baseline_l2.py",
+    "original_sha256": "24d66a59873a695d8413ffded3ba097d5b12b39802c16c5518078df9b45fd2da",
+    "release_sha256": "c7cdff436fa5f054c0fdb78db338b0e02dc2b31a361850648733c9aaeb85d613",
+    "adaptation_count": 1
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/atlas_340/src/08_capture_coverage.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/atlas_340/src/08_capture_coverage.py",
+    "original_sha256": "45a552a8f0bce71f7ca73e1533a0a136b473810e48c42df61ee8e894a0eb2d83",
+    "release_sha256": "b6cce6e3b64595028bb098598e58f378a49c11748b96119e3b7d8ffa3dc97f2f",
+    "adaptation_count": 1
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/atlas_340/src/08_cdr3vec_pilot.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/atlas_340/src/08_cdr3vec_pilot.py",
+    "original_sha256": "c5f557e7fd1bd1fc2c0334f40061f0bcd2e395be11e97a1eb95c9f7cbcf720d3",
+    "release_sha256": "59d17c9bde7b9d3413b71086f2cf4cd9175d20f85295441788ebf77870a8b557",
+    "adaptation_count": 1
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/atlas_340/src/08_compare_mil.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/atlas_340/src/08_compare_mil.py",
+    "original_sha256": "81fbd560a5e5bafd86d7fd33075d1af5a065e61ea4a0791ec59eb5ffddde551a",
+    "release_sha256": "0becb6e83f32152216c78c058540b3128a794352d3fbde624e7751e650dafb27",
+    "adaptation_count": 1
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/atlas_340/src/08_compare_summary.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/atlas_340/src/08_compare_summary.py",
+    "original_sha256": "2f3fb58f5255d695fe33347ba7fcdb3620a4300ab285c2b3399e24e0b34ca89f",
+    "release_sha256": "232ca657b9a9b9a358dfe851f42b0faa4c821ba016808b8e54514caf713d6637",
+    "adaptation_count": 2
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/atlas_340/src/08_home_sample.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/atlas_340/src/08_home_sample.py",
+    "original_sha256": "497ea8025ee577e9601a6a26fff939db3d227bc54816a7fb2316fc3f8cdd153b",
+    "release_sha256": "407b8cccd548705a5e8c35d3486ccd1eeca436df93ca99f625d4a1b450721e2c",
+    "adaptation_count": 2
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/atlas_340/src/08_prepare_vectors.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/atlas_340/src/08_prepare_vectors.py",
+    "original_sha256": "a84a5ed16b7415d7720c1a052a10670b849f864f0ef37a25bbeb5b937e6b33dd",
+    "release_sha256": "fdccdc44bf3e68ad458c86886d8a8db1a99c33a9292569c9fbf4290162b68d04",
+    "adaptation_count": 1
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/atlas_340/src/08_run_comparison_queue.sh",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/atlas_340/src/08_run_comparison_queue.sh",
+    "original_sha256": "36bf41b122eb387185bedd7d1a5e52337a99d2dd2988b1548fe9856cb71e590a",
+    "release_sha256": "5493fbbb0f56252d507878e7f805195260ade4c6d3a81f978b4de0976a697a9a",
+    "adaptation_count": 1
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/atlas_340/src/09_finalize_completion.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/atlas_340/src/09_finalize_completion.py",
+    "original_sha256": "2cc5517f698f1197a95956be7cb194de0ca71135deec7a46a47b498c2d89c0e8",
+    "release_sha256": "39fdbc9a69ff693138802cd7cb7091f2043cf2339b042d1124435e65daa5475a",
+    "adaptation_count": 2
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/embeddings/annotate_sceptr.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/embeddings/annotate_sceptr.py",
+    "original_sha256": "55d6f7eb24f186c8fcc472c6fe7ebc8ba432ecd42121704ead6c9de2ac516579",
+    "release_sha256": "c545deee4f2cbd173e72907b2f2ce57b4fa356c681e81e7fb263ac507c403a6c",
+    "adaptation_count": 1
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/embeddings/tcrbert_dualtask_aa_mean/run.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/embeddings/tcrbert_dualtask_aa_mean/run.py",
+    "original_sha256": "c28f10ec23375e222dd76b350c049b49e1d0ff4b489b75cc1a99ffa60dde5ffd",
+    "release_sha256": "585653aa137aa1f5582eebfa703591f98dfb609dfa1b10dda85e3c433b11622e",
+    "adaptation_count": 5
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/embeddings/verify_bank.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/embeddings/verify_bank.py",
+    "original_sha256": "2fb6904f351b16e82f4448fe6995b619768fcee3fee89719830867a4e4813066",
+    "release_sha256": "90f06c57dcead28558e6b485f0747a36085bb2f0d93bdebf83066bfe68f6ede5",
+    "adaptation_count": 1
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/models/mirror_models.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/models/mirror_models.py",
+    "original_sha256": "6414db6ed559761909bca3a33eb5153058aeb542f93128ac98dcef683409c68e",
+    "release_sha256": "a13867bad72dd51c297af257e4d5c2b5e883aaa91330adcdfc799ea281167e77",
+    "adaptation_count": 1
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/src/00_extract_clinical.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/src/00_extract_clinical.py",
+    "original_sha256": "7365fe324224970e8a574563e056c99b8d4ee35255a6dddcd6238d4557d654fb",
+    "release_sha256": "b95f383b138dc9f60a026b9df4ffd8c364dad604079af62cc05730692f4c3524",
+    "adaptation_count": 11
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/src/01_ingest.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/src/01_ingest.py",
+    "original_sha256": "94711c4413e5566e38d29070ac29cfec9bcbc9f4ad4fdc62eba10b1e4c0d0421",
+    "release_sha256": "181f532d44458455640b0590d28c22d6c3b8eed5bb36c6cb2454e9bf7fbe8245",
+    "adaptation_count": 4
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/src/02_embed.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/src/02_embed.py",
+    "original_sha256": "5f31e1102d248eac5c4cbfe5b7919527274448b21d6f99603d50a6d8c8fe8226",
+    "release_sha256": "d60c236e26a15242935563adb1fa0ebbd8ebbfb32a927b4d6ba74c53ef6f3b53",
+    "adaptation_count": 3
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/src/03_folds_pca.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/src/03_folds_pca.py",
+    "original_sha256": "909c45bb2558defcd497256743e092b9f7dff1c38a1dd8fa16e7621709ee9ac9",
+    "release_sha256": "ffcf5a2558785e99e530f87d4c8f39f1de43f9ecc3bee902653be3757bc3a4bc",
+    "adaptation_count": 0
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/src/04_groups_stats.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/src/04_groups_stats.py",
+    "original_sha256": "b1ed6ded4dd9e79146731c44fdac40e1f5dbddd413e3201e3e191741ed3dc196",
+    "release_sha256": "53590493532a2b69f5a7822b882ac55cecdccdb9a9b9dd014ebcbdd487f4a8c5",
+    "adaptation_count": 8
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/src/04b_tcrdist_projection.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/src/04b_tcrdist_projection.py",
+    "original_sha256": "bf4aab6e60e3bf15e0c5f7ed865ff119c6c3b20c86addf1066a85fc004533b43",
+    "release_sha256": "9af9fbdbe203515387966fb126fb974c646017f7361d5f2277469824eb7cfc00",
+    "adaptation_count": 5
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/src/04c_group_sensitivities.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/src/04c_group_sensitivities.py",
+    "original_sha256": "8675201d69f186d81f9d21c6dc6c933647d9c559f98ab3514eea9dcb8e6aa6b3",
+    "release_sha256": "52a6d55623ce251fdad4e8e22cf5a7d12fd6a67d817a1082b6d01dffae7d1e16",
+    "adaptation_count": 1
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/src/05_bag_capture_observed.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/src/05_bag_capture_observed.py",
+    "original_sha256": "5754b69efd118d03d77136add37c82776d72a9797db73f20c1f79a44ba1dd414",
+    "release_sha256": "2143cf04d209a04bcc26ad6772d497ee76e9db23e6ce50fdc6b1639f3d9a74bd",
+    "adaptation_count": 1
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/src/05_bag_curve_evaluate.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/src/05_bag_curve_evaluate.py",
+    "original_sha256": "e2b5ff871e1519c54944845757856a13da3621228d889e9d98c46f44380d8258",
+    "release_sha256": "d861c8255e0499fe465a4b6390d032e2f5a75834b2a3e445f0393044103f12b9",
+    "adaptation_count": 7
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/src/05_bag_curve_plot.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/src/05_bag_curve_plot.py",
+    "original_sha256": "c97cc99c49527aae67730e622944ba95ff0588c9740821c23e076649b8b5922c",
+    "release_sha256": "bb4cd3065b35c06227f9a7f8f7137161f1031b57bb8f19b7e94dc28bc428f022",
+    "adaptation_count": 2
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/src/05_bag_curve_v2.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/src/05_bag_curve_v2.py",
+    "original_sha256": "e7f595e41f3e86c2f204285cb3958eba07c866391da25438ab52513928f6a5de",
+    "release_sha256": "cdff48de21f59bb253acc2a1adabd16d7d72059ce0fefd9ba52ea340cd11cd4c",
+    "adaptation_count": 1
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/src/05_mil.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/src/05_mil.py",
+    "original_sha256": "9f1589d803ee0b7c014acdc4a83a0da1d3d7a351d74686c242834c3aab94dec6",
+    "release_sha256": "f1c5ec5b4f2f71c8b7d9df83b3379de5158d98aa57e4a10650581d80fa77aa45",
+    "adaptation_count": 20
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/src/06_decision.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/src/06_decision.py",
+    "original_sha256": "db39229d5ba239ffdc8aa48407f80a7d0824f3bd871511ae920f4f3bb407dfd2",
+    "release_sha256": "820aafe86c46fc3c8ff77c7a0eb79c2c4430f9fb2d59695e5d12469d0a893232",
+    "adaptation_count": 13
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/src/99_final_acceptance.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/src/99_final_acceptance.py",
+    "original_sha256": "f98cb349fb4e422a15f81ae80d8235a42f234867326eaebe3b867c64e76b0a53",
+    "release_sha256": "65948a6f050f24fe1d8ba5c5aeb6c09eb2823abab359d4c776251fc250bf19a8",
+    "adaptation_count": 20
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/src/99_validate.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/src/99_validate.py",
+    "original_sha256": "9a6aa26da39f2f4ffb5d98e57f1b803e76f47e3cabd03af129afdb40abb7a151",
+    "release_sha256": "8032283a79acace783091bc146d3b27d79a8200c62011b64f8a91143f2b7fc1f",
+    "adaptation_count": 1
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/src/tests/test_04c_group_sensitivities.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/src/tests/test_04c_group_sensitivities.py",
+    "original_sha256": "135a3e178ab75430f30f3bab806527cecb9625e1920c9a42c3388d70ef3f9854",
+    "release_sha256": "f950d1ad94794d426d8b2d2cc97b36afcb69daa6387308bf7d74881c05d2ef6d",
+    "adaptation_count": 17
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/src/tests/test_06_decision.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/src/tests/test_06_decision.py",
+    "original_sha256": "c5189bbce069a9aa13a795c63a26ccc72022c7a495095745080e4f7b69282dbb",
+    "release_sha256": "080560af924e75d7f6ece9d72831382c8d5954d084d5dcd84bb4658939562a0d",
+    "adaptation_count": 7
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/src/tests/test_99_final_acceptance.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/src/tests/test_99_final_acceptance.py",
+    "original_sha256": "59b2ee3f74b07299c9c7e08d6580d337a4b4bc6274a2e3e519c1d06013c7c346",
+    "release_sha256": "97c631d01b54ad3be9e53f9a694d4f2e186fd55831fbc7ec5eaa5154fd1090a2",
+    "adaptation_count": 1
+  },
+  {
+    "relative_path": "source_tree/0929_caseEmbedding/src/tests/test_99_validate.py",
+    "source_location": "remote",
+    "original_path": "0929_caseEmbedding/src/tests/test_99_validate.py",
+    "original_sha256": "fbe958cb88ade8d1954df196ef87e05381da296a62002c7618f31a32d1317c88",
+    "release_sha256": "aa5b575f78dacaf85c65ac9cc4de5d3c3590b03ea3eb40d774ae85011d4be2ee",
+    "adaptation_count": 1
+  },
+  {
+    "relative_path": "source_tree/20261009_CMV/pn_ml_models/src/run_ml_battery.py",
+    "source_location": "remote",
+    "original_path": "20261009_CMV/pn_ml_models/src/run_ml_battery.py",
+    "original_sha256": "25ab0e9d91574f8038741ad37a4c00ed3997f5ea1239fbcc39717289c700b5f5",
+    "release_sha256": "618a4fdf589b75ab4c254dda5d2fec07da4ed232f6516a7de582b3309f70bd5e",
+    "adaptation_count": 1
+  },
+  {
+    "relative_path": "source_tree/20261009_CMV/pn_ml_models_merged/src/make_figures.py",
+    "source_location": "remote",
+    "original_path": "20261009_CMV/pn_ml_models_merged/src/make_figures.py",
+    "original_sha256": "411247652672a6a8d8f15e4959b095dcf497202cf1ec8f1f9f8b832334939345",
+    "release_sha256": "39ce88b0de5bfc6ada1cbc66433376f142fa7e7127b59bdc2643885cd7ab137a",
+    "adaptation_count": 2
+  },
+  {
+    "relative_path": "source_tree/20261009_CMV/pn_ml_models_merged/src/run_ml_battery_merged.py",
+    "source_location": "remote",
+    "original_path": "20261009_CMV/pn_ml_models_merged/src/run_ml_battery_merged.py",
+    "original_sha256": "e21e3e73cabc794126c4bbbfdb176eb32fc5c0b7b2e039d4299d694c46457997",
+    "release_sha256": "13cdb256f26ee8cd21c3ebbda52f9fd319d66db495c73fafa423a2ae97eff738",
+    "adaptation_count": 1
+  },
+  {
+    "relative_path": "source_tree/20261009_CMV/repair_external_tstage.py",
+    "source_location": "remote",
+    "original_path": "20261009_CMV/repair_external_tstage.py",
+    "original_sha256": "6901ec3e91524de33167884169178bf15d2f0911292166b982112232c707370b",
+    "release_sha256": "faa277c95206a1f374adde0f1abb9483f9df6c624a53986d6ca182b0873f5118",
+    "adaptation_count": 2
+  },
+  {
+    "relative_path": "source_tree/20261009_CMV/run_ml_battery_cohort.py",
+    "source_location": "remote",
+    "original_path": "20261009_CMV/run_ml_battery_cohort.py",
+    "original_sha256": "5849c6efa10316accdc8f3f8d7220636f23152e85e990368899fe63d637c4391",
+    "release_sha256": "49c9fcdf18bf66c672cfeeb565f5415cf16dc71e945e71abb70236744ae74b54",
+    "adaptation_count": 2
+  },
+  {
+    "relative_path": "source_tree/20261010_article_v25/20261009_ML_SHAP/src/build_cluster_tcr_features.py",
+    "source_location": "remote",
+    "original_path": "20261010_article_v25/20261009_ML_SHAP/src/build_cluster_tcr_features.py",
+    "original_sha256": "65bfa9850551018d9e52590627c3bcb48d8192b248c64ce4961abc9c65447612",
+    "release_sha256": "28036d41ef54d718df30d49909f75a2cc701fb4bd41e7c12009e0e6731866acc",
+    "adaptation_count": 5
+  },
+  {
+    "relative_path": "source_tree/20261010_article_v25/20261009_ML_SHAP/src/make_figures_v2.py",
+    "source_location": "remote",
+    "original_path": "20261010_article_v25/20261009_ML_SHAP/src/make_figures_v2.py",
+    "original_sha256": "e180bac48b6a979410cc7f955c80bbde90098ef1d725175dc7cb051671096dc1",
+    "release_sha256": "a3170ac5e67de354958782bbe73ff56e5e8865078849dfb41364efc4cffeb71d",
+    "adaptation_count": 2
+  },
+  {
+    "relative_path": "source_tree/20261010_article_v25/20261009_ML_SHAP/src/run_cluster_tcr_battery.py",
+    "source_location": "remote",
+    "original_path": "20261010_article_v25/20261009_ML_SHAP/src/run_cluster_tcr_battery.py",
+    "original_sha256": "c6f3560bd7286a42f95f294ad32a125c88096e2658b1a527155f8dce7a057c12",
+    "release_sha256": "6a28504ac10131dff1606213587762ae1188c87700005f7cdfe1ab7263a3b71f",
+    "adaptation_count": 3
+  },
+  {
+    "relative_path": "source_tree/20261010_article_v25/Figure1A_redesign_20261012_v3/package_figure.py",
+    "source_location": "remote",
+    "original_path": "20261010_article_v25/Figure1A_redesign_20261012_v3/package_figure.py",
+    "original_sha256": "b9dbb02cccd67917116fbf978ca61ca38ecb6e9ccc962e06e1ac37ca5eaada0f",
+    "release_sha256": "70122c6fe9242b51ed2399a72ed0ceb76176138888639a7726a4036ce14b64ee",
+    "adaptation_count": 2
+  },
+  {
+    "relative_path": "source_tree/20261010_article_v25/revision_v27/ML_SHAP_corrected/scripts/repair_rf_shap.py",
+    "source_location": "remote",
+    "original_path": "20261010_article_v25/revision_v27/ML_SHAP_corrected/scripts/repair_rf_shap.py",
+    "original_sha256": "9ea6eb3e00aa0f56998e9196e1294c27bac0aaa2e9f5bec1908c6865cafb38e7",
+    "release_sha256": "fe83164c0c73a25377c5ce7696ee548ff635a40ed915b4ad683607656f0ba7b8",
+    "adaptation_count": 3
+  },
+  {
+    "relative_path": "source_tree/20261010_article_v25/revision_v27/ML_SHAP_corrected/scripts/verify_rf_shap.py",
+    "source_location": "remote",
+    "original_path": "20261010_article_v25/revision_v27/ML_SHAP_corrected/scripts/verify_rf_shap.py",
+    "original_sha256": "c00c24b07b164af2712dc9ce6f3df422e159d377b218c1d8029fe9186efa8b72",
+    "release_sha256": "42b28faf924e7e646e0900a2497bfa5308cd621c98a353e0c938933a3d1f40f9",
+    "adaptation_count": 1
+  },
+  {
+    "relative_path": "source_tree/20261010_article_v25/revision_v27/scripts/analysis_v26/build_figure2_s1.py",
+    "source_location": "remote",
+    "original_path": "20261010_article_v25/revision_v27/scripts/analysis_v26/build_figure2_s1.py",
+    "original_sha256": "b2e9ad5b82751c56c819f948bf8cf309d34337ad9c5f790e3439d7a75f001a75",
+    "release_sha256": "d7c9096d15bf00e6f20469c59fd55df34699659160af0dc1e2cf259223f71333",
+    "adaptation_count": 1
+  },
+  {
+    "relative_path": "source_tree/20261018_article_v27/revision_20261018_v29/figure_package/build_figure_package.py",
+    "source_location": "remote",
+    "original_path": "20261018_article_v27/revision_20261018_v29/figure_package/build_figure_package.py",
+    "original_sha256": "9a5dc9c7e168543c31f82b21288c6cf04087f68c4a27ae0f1d40bbaf63c16e36",
+    "release_sha256": "470538d8fefe92b5a342cf5b7ee7cafc994016314182534812c8f349f05094bb",
+    "adaptation_count": 2
+  },
+  {
+    "relative_path": "source_tree/20261003_paper_v1/code/run_ridge.py",
+    "source_location": "local_only",
+    "original_path": "20261003_paper_v1/code/run_ridge.py",
+    "original_sha256": "2993d7c4f50219ae18efd335a695d39dc6bc376e6fc20cebf97dbce0377c0177",
+    "release_sha256": "2993d7c4f50219ae18efd335a695d39dc6bc376e6fc20cebf97dbce0377c0177",
+    "adaptation_count": 0
+  },
+  {
+    "relative_path": "source_tree/20261003_paper_v2/code/build_figure1.py",
+    "source_location": "local_only",
+    "original_path": "20261003_paper_v2/code/build_figure1.py",
+    "original_sha256": "0996f653220beb68b54f7e3e46ccf5a0682937942372ad4cde8ac2b717c42c3a",
+    "release_sha256": "0d442a7eb8a70feb57cedb91ac42305efe53dcaa0979fcc294786e882b9da8e4",
+    "adaptation_count": 3
+  },
+  {
+    "relative_path": "source_tree/20261003_paper_v2/code/nodal_compile.py",
+    "source_location": "local_only",
+    "original_path": "20261003_paper_v2/code/nodal_compile.py",
+    "original_sha256": "170700c55d88d02dda08e260e3eaa09c21804d232a8cf41996e682d2ea0c332c",
+    "release_sha256": "665c7047768479f9b3c34495e869ec2f2d8b88967f32d2b86f16e1fd3f4f5ef7",
+    "adaptation_count": 15
+  },
+  {
+    "relative_path": "source_tree/20261003_paper_v2/code/q1_consolidate.py",
+    "source_location": "local_only",
+    "original_path": "20261003_paper_v2/code/q1_consolidate.py",
+    "original_sha256": "b4ac95855b71e1ca9f43778b21d73a58bf022fc490fd4e642428b11ed0acc9ca",
+    "release_sha256": "e417a7a35167a6bf59268741f3ffbdea8c275704c81fc7bbbc20f974beaa9e7b",
+    "adaptation_count": 6
+  },
+  {
+    "relative_path": "source_tree/20261003_paper_v2/code/q1_provenance_reconcile.py",
+    "source_location": "local_only",
+    "original_path": "20261003_paper_v2/code/q1_provenance_reconcile.py",
+    "original_sha256": "bef86a7c2be066d2dc151d3afc06e59a63ef9e2e3c3dc71fb1770b9b2902b033",
+    "release_sha256": "b97b71da78a6fb536a0d5dd8f12f6795771c1dd6fb3e833404d3079e06811178",
+    "adaptation_count": 1
+  },
+  {
+    "relative_path": "source_tree/20261003_paper_v2/code/q1_reference_query.py",
+    "source_location": "local_only",
+    "original_path": "20261003_paper_v2/code/q1_reference_query.py",
+    "original_sha256": "af26c2186e73e122998c6dd3db641f33dd8993a88c030b5e3ae505dbcf200ccc",
+    "release_sha256": "535b285d8ccc8470c2a35719b3f5e5a1be3a3eb324a4e5772ffe360f9df2e1e0",
+    "adaptation_count": 3
+  },
+  {
+    "relative_path": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v11/nodal_metrics_v11.py",
+    "source_location": "local_only",
+    "original_path": "20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v11/nodal_metrics_v11.py",
+    "original_sha256": "a2c77a27ad4dbb604f1cced375bee16491795b5731f8d7a02d7d0c9b11d6a94e",
+    "release_sha256": "2ee41836d39a975ff8ad5854c17162c285eacf5e746ef222b483a644dc4fe451",
+    "adaptation_count": 4
+  },
+  {
+    "relative_path": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v11/nodal_report_v11.py",
+    "source_location": "local_only",
+    "original_path": "20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v11/nodal_report_v11.py",
+    "original_sha256": "284182402ce97af59d5e3c93a3102cfbc1248e567fd9a0c08d2e9fd1a1f31892",
+    "release_sha256": "c787b182ad1ea7cd4a1c70f75c9146feed007231dfe28604ea6da2f17a2a1cb9",
+    "adaptation_count": 4
+  },
+  {
+    "relative_path": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v6/paper_style.py",
+    "source_location": "local_only",
+    "original_path": "20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v6/paper_style.py",
+    "original_sha256": "79e387e20f6875d3b4f581eb8c984de1671c7e5ece1659e726c98e0a11491a17",
+    "release_sha256": "79e387e20f6875d3b4f581eb8c984de1671c7e5ece1659e726c98e0a11491a17",
+    "adaptation_count": 0
+  },
+  {
+    "relative_path": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v6/v6_candidate_audit.py",
+    "source_location": "local_only",
+    "original_path": "20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v6/v6_candidate_audit.py",
+    "original_sha256": "f6f58a9593816b6e883d43823dee0d42533bd7cf5f1347291cb21b5ce989b671",
+    "release_sha256": "acf653101f570caeec330341c39f38baadc3b53ef7ef45165d03c93156ce7bcb",
+    "adaptation_count": 21
+  },
+  {
+    "relative_path": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v6/v6_candidate_figures.py",
+    "source_location": "local_only",
+    "original_path": "20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v6/v6_candidate_figures.py",
+    "original_sha256": "1156e795391325dd237f67c5faf5a3096172bc9216fab2cf64d779ee61de9818",
+    "release_sha256": "28253dc242a933990f73a640cafc2f9a10049f4bec5abc39d08129f26a1ddc6c",
+    "adaptation_count": 4
+  },
+  {
+    "relative_path": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v6/v6_candidate_finalize.py",
+    "source_location": "local_only",
+    "original_path": "20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v6/v6_candidate_finalize.py",
+    "original_sha256": "6a0f471dfc6ea74cbaf1884f00075c27ee48b162d9a8fb6404d71fd1f9662f93",
+    "release_sha256": "287e850323569056934afda997884c1fda2ac5a1843a4fd5e5750d2c3b2c92f7",
+    "adaptation_count": 1
+  },
+  {
+    "relative_path": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v6/v6_candidate_history_figure.py",
+    "source_location": "local_only",
+    "original_path": "20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v6/v6_candidate_history_figure.py",
+    "original_sha256": "8e2b326211e187d3297ab834abcd29a8cdc66be95464f4620dc53445ae197280",
+    "release_sha256": "8e2b326211e187d3297ab834abcd29a8cdc66be95464f4620dc53445ae197280",
+    "adaptation_count": 0
+  },
+  {
+    "relative_path": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v6/v6_candidate_verify.py",
+    "source_location": "local_only",
+    "original_path": "20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v6/v6_candidate_verify.py",
+    "original_sha256": "db7591f11ae1a2f91913446220117ca473c6efbc681baca857409c9037fb19d7",
+    "release_sha256": "b3348bb439abc7a7725f6eea8fbe42814fcc3675c7fe1a922d84de3ea83f3bd9",
+    "adaptation_count": 5
+  },
+  {
+    "relative_path": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v6/v6_overview_figures.py",
+    "source_location": "local_only",
+    "original_path": "20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v6/v6_overview_figures.py",
+    "original_sha256": "f15d5e70b37e473ecda045f714fc96dbc8e9f8e89bb90f6c4a6275adfb0e7a17",
+    "release_sha256": "5ba1b775931601d67730266c02aefe2ebf961a2cbfd45a08775e1c8714235767",
+    "adaptation_count": 7
+  },
+  {
+    "relative_path": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v6/v6_representation_figure.py",
+    "source_location": "local_only",
+    "original_path": "20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v6/v6_representation_figure.py",
+    "original_sha256": "2957e43a816fb82bec484c0ad4f69d4987ccb1b5e86aefea259952ad24ca30a9",
+    "release_sha256": "1de35e76ef3432113c29f213cbca86e405585c0f52702447bbd8b0ff3bc51942",
+    "adaptation_count": 2
+  },
+  {
+    "relative_path": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v7/v7_q1_depth_n.py",
+    "source_location": "local_only",
+    "original_path": "20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v7/v7_q1_depth_n.py",
+    "original_sha256": "8de8452a34bf0761c1b7412238638a48bc0c90baa5a2939c34d4e149ec011d05",
+    "release_sha256": "c25c628bfa3cd2580aaae0b1eb76033210b24b54e9a71545421647df79df01da",
+    "adaptation_count": 15
+  },
+  {
+    "relative_path": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v7/v7_q1_depth_n_finalize.py",
+    "source_location": "local_only",
+    "original_path": "20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v7/v7_q1_depth_n_finalize.py",
+    "original_sha256": "05ead5fe67979dd98a38260d0721ed0ae727f4c05615c4f3d5f1dce96189c85e",
+    "release_sha256": "1c28513c9aa5bef68d80630cdfc770ec161fe451769d450f362fdd581f06925f",
+    "adaptation_count": 4
+  },
+  {
+    "relative_path": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v7/v7_q1_depth_n_models.py",
+    "source_location": "local_only",
+    "original_path": "20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v7/v7_q1_depth_n_models.py",
+    "original_sha256": "eed3ac2d73236e60f89719cdf27e817bb8e5569d835a8912ea05e73ad0bccdc3",
+    "release_sha256": "e7e49afa3d1f95e84867b8e0f160787204e7b688ad5c3d4629c1b0e53b4e585c",
+    "adaptation_count": 7
+  },
+  {
+    "relative_path": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v7/v7_q1_depth_n_verify.py",
+    "source_location": "local_only",
+    "original_path": "20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v7/v7_q1_depth_n_verify.py",
+    "original_sha256": "4cbe9b0c279ea55ef0c841ab8f934c751231354e7fc589d2cb85d162c87f81e3",
+    "release_sha256": "b450733000416653ca2c6b5ff414b83278f7ce75b5e83fd133f4a19df3a06165",
+    "adaptation_count": 1
+  },
+  {
+    "relative_path": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/antigen_predictions_v17.py",
+    "source_location": "local_only",
+    "original_path": "20261003_paper_v2/revision_v20_narrative_antigen_revision/code/antigen_predictions_v17.py",
+    "original_sha256": "0302f2cf58b27d3056806598d8a19a53de4c31e97f5c432e84d2de31b372db09",
+    "release_sha256": "c02489f5d6c84b1861360dba415c25a485196de4fbb0134aee1a0fd5ea40c3b8",
+    "adaptation_count": 7
+  },
+  {
+    "relative_path": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/assemble.py",
+    "source_location": "local_only",
+    "original_path": "20261003_paper_v2/revision_v20_narrative_antigen_revision/code/assemble.py",
+    "original_sha256": "e66fc434ae73ba3b1d9a9b74d07a1ff30579ca61e1c683ac63d45065e401b273",
+    "release_sha256": "85398244bc69063f2896d532333c2ae4c1041cd9d248ef918d711d63cb5ca49f",
+    "adaptation_count": 3
+  },
+  {
+    "relative_path": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/audit_nucleotide_variants_v17.py",
+    "source_location": "local_only",
+    "original_path": "20261003_paper_v2/revision_v20_narrative_antigen_revision/code/audit_nucleotide_variants_v17.py",
+    "original_sha256": "07e7b4cd05377f7d788de75f582d6bb8d2369e4cf67246b1d0c17b89098a2cbc",
+    "release_sha256": "1df1773b73b206c82250f352db2c029c4e350ccfa8660c7ce5c0d8be3d045dc9",
+    "adaptation_count": 24
+  },
+  {
+    "relative_path": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/compute_antigen_ergo_v19.py",
+    "source_location": "local_only",
+    "original_path": "20261003_paper_v2/revision_v20_narrative_antigen_revision/code/compute_antigen_ergo_v19.py",
+    "original_sha256": "6984c80c55bd3beb0cb3ff2212cbc33bbc8283244f7b7b6258da44a09502bb7a",
+    "release_sha256": "3a01a021a1c2ed8e55891de3c41d7f6be57ca866c430180a09462fb16534d7bf",
+    "adaptation_count": 5
+  },
+  {
+    "relative_path": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/compute_antigen_rankings_v19.py",
+    "source_location": "local_only",
+    "original_path": "20261003_paper_v2/revision_v20_narrative_antigen_revision/code/compute_antigen_rankings_v19.py",
+    "original_sha256": "3da55ed228b754d1f41bc329465ccfc3b232813ee596dbe5a22a94c28a1aa497",
+    "release_sha256": "f7f5814702ce3b1e3d17b342f2fc9ab5490262893645513fb677e02faab28baf",
+    "adaptation_count": 7
+  },
+  {
+    "relative_path": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/figure_assets.py",
+    "source_location": "local_only",
+    "original_path": "20261003_paper_v2/revision_v20_narrative_antigen_revision/code/figure_assets.py",
+    "original_sha256": "f843f83b8533ac97f9e82575775dec438463dc742241dd9f3b2ad3c88d06d133",
+    "release_sha256": "f843f83b8533ac97f9e82575775dec438463dc742241dd9f3b2ad3c88d06d133",
+    "adaptation_count": 0
+  },
+  {
+    "relative_path": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/finalize_antigen_evidence_v19.py",
+    "source_location": "local_only",
+    "original_path": "20261003_paper_v2/revision_v20_narrative_antigen_revision/code/finalize_antigen_evidence_v19.py",
+    "original_sha256": "fc8be4e29f58ade35e37bb8b6f0167c323b6a199d671934d941e3e723f4b26e9",
+    "release_sha256": "fc8be4e29f58ade35e37bb8b6f0167c323b6a199d671934d941e3e723f4b26e9",
+    "adaptation_count": 0
+  },
+  {
+    "relative_path": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/package_source_data.py",
+    "source_location": "local_only",
+    "original_path": "20261003_paper_v2/revision_v20_narrative_antigen_revision/code/package_source_data.py",
+    "original_sha256": "0638084748708e87b88a96fca3aedf5f80942a6c06dbde32aa61b6b7f01f08a3",
+    "release_sha256": "0638084748708e87b88a96fca3aedf5f80942a6c06dbde32aa61b6b7f01f08a3",
+    "adaptation_count": 0
+  },
+  {
+    "relative_path": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/plot_figure1_v19.py",
+    "source_location": "local_only",
+    "original_path": "20261003_paper_v2/revision_v20_narrative_antigen_revision/code/plot_figure1_v19.py",
+    "original_sha256": "031dbdd2e0ce54bcc1b83e3058353cd3afa4adbad5255859d04e765ab8017df9",
+    "release_sha256": "031dbdd2e0ce54bcc1b83e3058353cd3afa4adbad5255859d04e765ab8017df9",
+    "adaptation_count": 0
+  },
+  {
+    "relative_path": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/plot_figure2_v20.py",
+    "source_location": "local_only",
+    "original_path": "20261003_paper_v2/revision_v20_narrative_antigen_revision/code/plot_figure2_v20.py",
+    "original_sha256": "a585cbc7c5bee7b30a73fce7500d437e845392d1b8b69fb5e48b524652ec7a9e",
+    "release_sha256": "9eda5e177f024fcded7081f938fc5547de62a1d1b222ebe18c3061ca0caacf84",
+    "adaptation_count": 1
+  },
+  {
+    "relative_path": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/plot_supplement_v20.py",
+    "source_location": "local_only",
+    "original_path": "20261003_paper_v2/revision_v20_narrative_antigen_revision/code/plot_supplement_v20.py",
+    "original_sha256": "27d65812dd844d76209da07d1b903969b4219219c050e58fc6127004b134acdb",
+    "release_sha256": "0743f941c8cfc64a1c31365ff8c8582badc8c58d2db25ce458bae60c36a882e8",
+    "adaptation_count": 3
+  },
+  {
+    "relative_path": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/prepare_source_additions_v20.py",
+    "source_location": "local_only",
+    "original_path": "20261003_paper_v2/revision_v20_narrative_antigen_revision/code/prepare_source_additions_v20.py",
+    "original_sha256": "7beb520c9970c877b6d3e42ceda4c72ae1001d5a5a5a0d2d3ab375cdfb9902a2",
+    "release_sha256": "c81decf89237c8f7f8f00baf2746899b80a876e729218fab85fbe92e6f5024a4",
+    "adaptation_count": 1
+  },
+  {
+    "relative_path": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/reference_policy.py",
+    "source_location": "local_only",
+    "original_path": "20261003_paper_v2/revision_v20_narrative_antigen_revision/code/reference_policy.py",
+    "original_sha256": "76f19e52ffb29d4a889168823a09ad74c50a8a43fcd542564f3f8b595c2c1451",
+    "release_sha256": "76f19e52ffb29d4a889168823a09ad74c50a8a43fcd542564f3f8b595c2c1451",
+    "adaptation_count": 0
+  },
+  {
+    "relative_path": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/register_main_figures.py",
+    "source_location": "local_only",
+    "original_path": "20261003_paper_v2/revision_v20_narrative_antigen_revision/code/register_main_figures.py",
+    "original_sha256": "d3e0b07119e8a4731bced7f6eefe62258bf24b9b387e3c2f25a9d7113164afc6",
+    "release_sha256": "d3e0b07119e8a4731bced7f6eefe62258bf24b9b387e3c2f25a9d7113164afc6",
+    "adaptation_count": 0
+  },
+  {
+    "relative_path": "source_tree/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/revision_config.py",
+    "source_location": "local_only",
+    "original_path": "20261003_paper_v2/revision_v20_narrative_antigen_revision/code/revision_config.py",
+    "original_sha256": "78da2c1a4842cd3b97a8ee809be553f4a9aca3d5ac59e7068e6d0c598793f7d7",
+    "release_sha256": "0a392df7dbd8f5b172aecc4766046bd007025f0340baf2df6fb78f6686a8c2ec",
+    "adaptation_count": 1
+  }
+]

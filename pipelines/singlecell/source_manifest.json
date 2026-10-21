@@ -1,0 +1,305 @@
+[
+  {
+    "release_path": "legacy/code/single_cell_common.py",
+    "source_path": "results/20261003_paper_v2/code/single_cell_common.py",
+    "source_location": "local_frozen_snapshot",
+    "source_sha256": "f4740a630db578714e54edef6abd77d0b3483d505fc73338e51a9417a5612d43",
+    "source_bytes": 3559,
+    "release_sha256": "9c5d98bfbda72e9b6871d996377692c45ec859d817a32173c9f5037d620c6e52",
+    "adaptations": [
+      "external_constant:single_cell_common_value_12_5",
+      "external_constant:single_cell_common_value_13_5",
+      "external_path:single_cell_common_source_8",
+      "external_path:single_cell_common_source_10"
+    ]
+  },
+  {
+    "release_path": "legacy/code/single_cell_analysis.py",
+    "source_path": "results/20261003_paper_v2/code/single_cell_analysis.py",
+    "source_location": "local_frozen_snapshot",
+    "source_sha256": "153e0bf8c5da45061ea03191e92c15d7472a6c588a3198863de5856452e71d2a",
+    "source_bytes": 12969,
+    "release_sha256": "25de378ff0fb02646deab3a28b348fb0e3a56bb8ef83ea5a7ac3d8ecbc236697",
+    "adaptations": []
+  },
+  {
+    "release_path": "legacy/code/single_cell_rna.py",
+    "source_path": "results/20261003_paper_v2/code/single_cell_rna.py",
+    "source_location": "local_frozen_snapshot",
+    "source_sha256": "a404d8a31cff514f106e81f53e434c62e662c2d5e8c2f25cc0219f54faefcdb4",
+    "source_bytes": 4681,
+    "release_sha256": "dbc87816c7a0518c82bfeb68ecc59712bf24e54a5b54caf13d84435159e7edb7",
+    "adaptations": []
+  },
+  {
+    "release_path": "legacy/code/single_cell_statistics.py",
+    "source_path": "results/20261003_paper_v2/code/single_cell_statistics.py",
+    "source_location": "local_frozen_snapshot",
+    "source_sha256": "5699548728c22729e0d0d045169309762195712da7533744dfc11eb441fe9452",
+    "source_bytes": 4751,
+    "release_sha256": "63769deeb760e6eec381d6dc7a13c70f5477ebf9446975e4e8e93a77e3aae196",
+    "adaptations": []
+  },
+  {
+    "release_path": "legacy/revision_v5/code/bulk_sc_match_ingest.py",
+    "source_path": "results/20261003_paper_v2/revision_v5/code/bulk_sc_match_ingest.py",
+    "source_location": "local_frozen_snapshot",
+    "source_sha256": "6e3713bf7c8c8173219513c9471e669086e00279376ceea64627779c1838984f",
+    "source_bytes": 23711,
+    "release_sha256": "6b8f29b8881b292452fe06466debbd7c1466a241dbb9bebe35269e0b9daf4961",
+    "adaptations": [
+      "external_path:bulk_sc_match_ingest_source_9",
+      "external_path:bulk_sc_match_ingest_source_10",
+      "external_path:bulk_sc_match_ingest_source_11",
+      "external_constant:bulk_sc_match_ingest_value_56_8",
+      "external_constant:bulk_sc_match_ingest_value_56_46"
+    ]
+  },
+  {
+    "release_path": "legacy/revision_v5/code/bulk_sc_analysis.py",
+    "source_path": "results/20261003_paper_v2/revision_v5/code/bulk_sc_analysis.py",
+    "source_location": "local_frozen_snapshot",
+    "source_sha256": "98f3cbbc1a781261c3b6b9e836095ded2744fc5882a81fc856484c648b98d9a7",
+    "source_bytes": 46856,
+    "release_sha256": "ec28af6d302f7de1e71881894d1ff78bba548135053d4c26f9b28d219de5c31b",
+    "adaptations": [
+      "external_path:bulk_sc_analysis_source_20",
+      "external_path:bulk_sc_analysis_source_21"
+    ]
+  },
+  {
+    "release_path": "legacy/revision_v5/code/bulk_sc_match_verify.py",
+    "source_path": "results/20261003_paper_v2/revision_v5/code/bulk_sc_match_verify.py",
+    "source_location": "local_frozen_snapshot",
+    "source_sha256": "9bd3a801c29cebeaccd33b797db99b7fbc51daf56626110c20e8b2d975c80d16",
+    "source_bytes": 16628,
+    "release_sha256": "bf26ee1d0d4a87dec27bc229280dce7b800e0b173d49ef49ab05da3d8d27b23d",
+    "adaptations": [
+      "external_path:bulk_sc_match_verify_source_10",
+      "external_constant:bulk_sc_match_verify_value_44_9",
+      "external_constant:bulk_sc_match_verify_value_44_50"
+    ]
+  },
+  {
+    "release_path": "legacy/revision_v5/code/bulk_sc_match_tests.py",
+    "source_path": "results/20261003_paper_v2/revision_v5/code/bulk_sc_match_tests.py",
+    "source_location": "local_frozen_snapshot",
+    "source_sha256": "1e9215bf590b33a6eb12f4501e9a8ffa9e5f3314323ddda4269759381e7e1a1d",
+    "source_bytes": 3449,
+    "release_sha256": "d85cddd4ca23bcb546229dabf201b4371614f74d80e6e17f37eebe66a13591b8",
+    "adaptations": [
+      "external_path:bulk_sc_match_tests_source_8"
+    ]
+  },
+  {
+    "release_path": "legacy/revision_v6/code/v6_cohort_sharing.py",
+    "source_path": "results/20261003_paper_v2/revision_v6/code/v6_cohort_sharing.py",
+    "source_location": "local_frozen_snapshot",
+    "source_sha256": "80a6889f881f3c861eb9215c4026c066db077f77c9ff18e4596d5f9140ebb2e1",
+    "source_bytes": 31478,
+    "release_sha256": "9104fef206c5aedf0e13dd76572e5e049984c344b3f0f2d28e7c6f17ca8ea7ff",
+    "adaptations": [
+      "external_path:v6_cohort_sharing_source_10",
+      "external_constant:v6_cohort_sharing_value_115_30",
+      "external_constant:v6_cohort_sharing_value_285_43",
+      "external_constant:v6_cohort_sharing_value_316_333",
+      "external_constant:v6_cohort_sharing_value_316_378",
+      "external_constant:selected_on_visit_mapping_json"
+    ]
+  },
+  {
+    "release_path": "legacy/revision_v6/code/v6_phenotypes_bridge.py",
+    "source_path": "results/20261003_paper_v2/revision_v6/code/v6_phenotypes_bridge.py",
+    "source_location": "local_frozen_snapshot",
+    "source_sha256": "72df17e98f2c9047e7bb9c9b779a36305c6c13e5fc887a93f1a3b3ef7491047b",
+    "source_bytes": 42493,
+    "release_sha256": "ad15ed67d5ea33189baa10207d3638e4330a40b32c23063785d7818713198fac",
+    "adaptations": [
+      "external_path:v6_phenotypes_bridge_source_13",
+      "external_constant:v6_phenotypes_bridge_value_19_10",
+      "external_constant:v6_phenotypes_bridge_value_19_16",
+      "external_constant:v6_phenotypes_bridge_value_19_22",
+      "external_constant:v6_phenotypes_bridge_value_19_28",
+      "external_constant:v6_phenotypes_bridge_value_19_34",
+      "external_constant:v6_phenotypes_bridge_value_19_40",
+      "external_constant:v6_phenotypes_bridge_value_19_46",
+      "external_constant:v6_phenotypes_bridge_value_19_52",
+      "external_constant:v6_phenotypes_bridge_value_19_58",
+      "external_constant:v6_phenotypes_bridge_value_19_64",
+      "external_constant:v6_phenotypes_bridge_value_19_70",
+      "external_constant:v6_phenotypes_bridge_value_19_76",
+      "external_constant:v6_phenotypes_bridge_value_19_82",
+      "external_constant:v6_phenotypes_bridge_value_19_88",
+      "external_constant:v6_phenotypes_bridge_value_19_94",
+      "external_constant:v6_phenotypes_bridge_value_19_100",
+      "external_constant:v6_phenotypes_bridge_value_19_106",
+      "external_constant:v6_phenotypes_bridge_value_19_112",
+      "external_constant:v6_phenotypes_bridge_value_19_118",
+      "external_constant:v6_phenotypes_bridge_value_509_9",
+      "external_constant:v6_phenotypes_bridge_value_510_112",
+      "external_constant:v6_phenotypes_bridge_value_510_151"
+    ]
+  },
+  {
+    "release_path": "legacy/revision_v7/code/v7_antigen_bridge.py",
+    "source_path": "results/20261003_paper_v2/revision_v7/code/v7_antigen_bridge.py",
+    "source_location": "local_frozen_snapshot",
+    "source_sha256": "94210482267ddb9ec6cb6300d8a2fbe78fe41e7e5628616007f7f96e36d04fab",
+    "source_bytes": 18904,
+    "release_sha256": "9d1d5554eca8193c0c496b8c04ad9af796a4e1335dab6987738ad4eeeb25f992",
+    "adaptations": [
+      "external_path:v7_antigen_bridge_source_10",
+      "external_path:v7_antigen_bridge_source_208",
+      "external_path:v7_antigen_bridge_source_66"
+    ]
+  },
+  {
+    "release_path": "legacy/revision_v16_core_narrative/code/bulk_abundance_states.py",
+    "source_path": "results/20261003_paper_v2/revision_v16_core_narrative/code/bulk_abundance_states.py",
+    "source_location": "local_frozen_snapshot",
+    "source_sha256": "bcf942a430a690a63c20cb3a4b0302120d30561b44a342d84e9d5a156f0da2a5",
+    "source_bytes": 23838,
+    "release_sha256": "093210e104aea06805f7e15e56ca86472857d656c971aebec518ea895d8c89a4",
+    "adaptations": [
+      "external_path:bulk_abundance_states_source_28",
+      "external_output_root:abundance_root"
+    ]
+  },
+  {
+    "release_path": "legacy/revision_v20_narrative_antigen_revision/code/plot_figure34_v18.py",
+    "source_path": "results/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/plot_figure34_v18.py",
+    "source_location": "local_frozen_snapshot",
+    "source_sha256": "b77d34792d6df54c13cebde83105e3f3e6deb9b5240d2c72470d51d1ef1c832d",
+    "source_bytes": 25036,
+    "release_sha256": "3d3669639351f1f498374e66b77e9c0db42bbe2d6dc1ffed3bd54def985d39a8",
+    "adaptations": [
+      "external_output_root:render_v20_root"
+    ]
+  },
+  {
+    "release_path": "legacy/revision_v20_narrative_antigen_revision/code/plot_figure4_v20.py",
+    "source_path": "results/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/plot_figure4_v20.py",
+    "source_location": "local_frozen_snapshot",
+    "source_sha256": "226eeb50e66401abff58452f857c0cf3ea89d0eee7a70e01ee03702bb9456fe1",
+    "source_bytes": 21461,
+    "release_sha256": "2a19867b03425230f5d804582fc3d2003e6ddac5c500216d2010addd5c2f09de",
+    "adaptations": [
+      "external_output_root:render_v20_root"
+    ]
+  },
+  {
+    "release_path": "legacy/revision_v20_narrative_antigen_revision/code/plot_supplement_v20.py",
+    "source_path": "results/20261003_paper_v2/revision_v20_narrative_antigen_revision/code/plot_supplement_v20.py",
+    "source_location": "local_frozen_snapshot",
+    "source_sha256": "27d65812dd844d76209da07d1b903969b4219219c050e58fc6127004b134acdb",
+    "source_bytes": 28067,
+    "release_sha256": "dfee281cf7ad660c0c6c26856721bc4c3d8f5f9642feea61873d17e821d6c0ab",
+    "adaptations": [
+      "external_output_root:render_v20_root"
+    ]
+  },
+  {
+    "release_path": "current_figure3/build_figure3_revision.py",
+    "source_path": "work/20261018_v27_revision/figure3/build_figure3_revision.py",
+    "source_location": "local_frozen_snapshot",
+    "source_sha256": "6aec06800bb5352b87ae64a70ae4aeec9f410584a02097e5e14f929feb67833e",
+    "source_bytes": 9098,
+    "release_sha256": "29f1ec8e81bd285798180c3d9db9b9766dcac8970aefc494843b3db786c362cf",
+    "adaptations": [
+      "external_path:build_figure3_revision_source_20",
+      "external_output_root:figure3_output_root"
+    ]
+  },
+  {
+    "release_path": "current_figure3/original_redraw_figure4.py",
+    "source_path": "work/20261018_v27_revision/figure3/original_redraw_figure4.py",
+    "source_location": "local_frozen_snapshot",
+    "source_sha256": "1a3a5655dffa51dd6b04935d625a80e004d2dd1685b9f4f640328a323af8a423",
+    "source_bytes": 22007,
+    "release_sha256": "352fe9e738753645e09adb2975dfeae52ee9aac55f7d7164bc7245c4e756ad1f",
+    "adaptations": []
+  },
+  {
+    "release_path": "umap/recompute_embedding.py",
+    "source_path": "20261010_article_v25/20261008_UMAP/recomputed_scTCR_20261009/scripts/recompute_embedding.py",
+    "source_location": "remote_live",
+    "source_sha256": "ef2e912950578643bee9776b23eae113cd2681329c7ae4fdf6c0a1b3d65cc0e7",
+    "source_bytes": 24465,
+    "release_sha256": "09e0514cf0436e6cfad48a5fd056acecc5b443759718087c7f25bc04a394ab1d",
+    "adaptations": [
+      "external_path:recompute_embedding_source_25",
+      "external_path:recompute_embedding_source_28"
+    ]
+  },
+  {
+    "release_path": "umap/render_umaps.py",
+    "source_path": "20261010_article_v25/20261008_UMAP/recomputed_scTCR_20261009/scripts/render_umaps.py",
+    "source_location": "remote_live",
+    "source_sha256": "df54d143ce6651ecca2174713d8c38d689261735bfd69b58e3a2783f5e91b1f7",
+    "source_bytes": 35899,
+    "release_sha256": "f9ff89e11fd4e366bc7b22b1c1d51956b65f2c697f460d909fd154c70a779887",
+    "adaptations": [
+      "external_path:render_umaps_source_26"
+    ]
+  },
+  {
+    "release_path": "umap/prepare_tcr_umap_inputs.py",
+    "source_path": "outputs/turn_20261008041153_4d884f4d63dd4cc7a128a681f1081a0f/tcr_match/prepare_tcr_umap_inputs.py",
+    "source_location": "remote_live",
+    "source_sha256": "5daca703a85a41def278935985225aeb45403d11831d7e685727ce20924ec169",
+    "source_bytes": 14690,
+    "release_sha256": "7beeeadfc9afca39b399ed10f616915bd50e808dff342ea1c9abc0e088e2dcc7",
+    "adaptations": [
+      "external_path:prepare_tcr_umap_inputs_source_25",
+      "external_path:prepare_tcr_umap_inputs_source_65",
+      "external_path:prepare_tcr_umap_inputs_source_66",
+      "external_constant:prepare_tcr_umap_inputs_value_108_42",
+      "external_constant:prepare_tcr_umap_inputs_value_109_42"
+    ]
+  },
+  {
+    "release_path": "c27/build_cluster_mapping.py",
+    "source_path": "20261010_article_v25/20261012_scTCR_3cluster/scripts/build_cluster_mapping.py",
+    "source_location": "remote_live",
+    "source_sha256": "9619a0888f2b16ba0917e28820bd5526f5a4ca1f3bece1f094627692390fcbaf",
+    "source_bytes": 18552,
+    "release_sha256": "c3983f4911e5a3c4a5700f62e4df2315506da4c5f863c47bee4bc6a052293918",
+    "adaptations": [
+      "external_path:build_cluster_mapping_source_257",
+      "external_path:build_cluster_mapping_source_258"
+    ]
+  },
+  {
+    "release_path": "c27/analyze_subtype_preference.py",
+    "source_path": "20261010_article_v25/20261012_scTCR_3cluster/scripts/analyze_subtype_preference.py",
+    "source_location": "remote_live",
+    "source_sha256": "a92375727a324b7c5ed526f6552ea2661ea29f384f05d382521a86c5c4a99291",
+    "source_bytes": 14414,
+    "release_sha256": "eae43a37e06b22938b6d802c5714f9d0aced7f7c92c02e6056a7a31d51922dd2",
+    "adaptations": []
+  },
+  {
+    "release_path": "signature_upstream/signature_prepare.py",
+    "source_path": "20261010_article_v25/20261012_scTCR_c27_MAIT/scripts/signature_prepare.py",
+    "source_location": "remote_live",
+    "source_sha256": "5cf1f3f03e11de137700abcb84e15a5a61e70a481de1b05e5ceb53ae69d46de3",
+    "source_bytes": 8145,
+    "release_sha256": "4232656099ec48a5b0846554670aa83d3011daaf688aaa8a413eebe6eac0ef1c",
+    "adaptations": [
+      "external_path:signature_prepare_source_17",
+      "external_path:signature_prepare_source_18",
+      "external_constant:signature_prepare_value_71_55",
+      "external_constant:signature_prepare_value_71_61",
+      "external_output_root:signature_upstream_root"
+    ]
+  },
+  {
+    "release_path": "signature_upstream/signature_stream.cpp",
+    "source_path": "20261010_article_v25/20261012_scTCR_c27_MAIT/scripts/signature_stream.cpp",
+    "source_location": "remote_live",
+    "source_sha256": "dd650b5584c3cb7f98c813e8f35bae6c3f95df06b0b15a4b1ece66476199a399",
+    "source_bytes": 4280,
+    "release_sha256": "dd650b5584c3cb7f98c813e8f35bae6c3f95df06b0b15a4b1ece66476199a399",
+    "adaptations": []
+  }
+]

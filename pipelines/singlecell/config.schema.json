@@ -1,0 +1,279 @@
+{
+  "paths": {
+    "single_cell_common_source_8": {
+      "value": "",
+      "description": "Original path at legacy/code/single_cell_common.py:8; input/output role described in README; never run against the original output tree."
+    },
+    "single_cell_common_source_10": {
+      "value": "",
+      "description": "Original path at legacy/code/single_cell_common.py:10; input/output role described in README; never run against the original output tree."
+    },
+    "bulk_sc_match_ingest_source_9": {
+      "value": "",
+      "description": "Original path at legacy/revision_v5/code/bulk_sc_match_ingest.py:9; input/output role described in README; never run against the original output tree."
+    },
+    "bulk_sc_match_ingest_source_10": {
+      "value": "",
+      "description": "Original path at legacy/revision_v5/code/bulk_sc_match_ingest.py:10; input/output role described in README; never run against the original output tree."
+    },
+    "bulk_sc_match_ingest_source_11": {
+      "value": "",
+      "description": "Original path at legacy/revision_v5/code/bulk_sc_match_ingest.py:11; input/output role described in README; never run against the original output tree."
+    },
+    "bulk_sc_analysis_source_20": {
+      "value": "",
+      "description": "Original path at legacy/revision_v5/code/bulk_sc_analysis.py:20; input/output role described in README; never run against the original output tree."
+    },
+    "bulk_sc_analysis_source_21": {
+      "value": "",
+      "description": "Original path at legacy/revision_v5/code/bulk_sc_analysis.py:21; input/output role described in README; never run against the original output tree."
+    },
+    "bulk_sc_match_verify_source_10": {
+      "value": "",
+      "description": "Original path at legacy/revision_v5/code/bulk_sc_match_verify.py:10; input/output role described in README; never run against the original output tree."
+    },
+    "bulk_sc_match_tests_source_8": {
+      "value": "",
+      "description": "Original path at legacy/revision_v5/code/bulk_sc_match_tests.py:8; input/output role described in README; never run against the original output tree."
+    },
+    "v6_cohort_sharing_source_10": {
+      "value": "",
+      "description": "Original path at legacy/revision_v6/code/v6_cohort_sharing.py:10; input/output role described in README; never run against the original output tree."
+    },
+    "v6_phenotypes_bridge_source_13": {
+      "value": "",
+      "description": "Original path at legacy/revision_v6/code/v6_phenotypes_bridge.py:13; input/output role described in README; never run against the original output tree."
+    },
+    "v7_antigen_bridge_source_10": {
+      "value": "",
+      "description": "Original path at legacy/revision_v7/code/v7_antigen_bridge.py:10; input/output role described in README; never run against the original output tree."
+    },
+    "v7_antigen_bridge_source_208": {
+      "value": "",
+      "description": "Original path at legacy/revision_v7/code/v7_antigen_bridge.py:208; input/output role described in README; never run against the original output tree."
+    },
+    "v7_antigen_bridge_source_66": {
+      "value": "",
+      "description": "Original path at legacy/revision_v7/code/v7_antigen_bridge.py:66; input/output role described in README; never run against the original output tree."
+    },
+    "bulk_abundance_states_source_28": {
+      "value": "",
+      "description": "Original path at legacy/revision_v16_core_narrative/code/bulk_abundance_states.py:28; input/output role described in README; never run against the original output tree."
+    },
+    "abundance_root": {
+      "value": "",
+      "description": "Writable external execution root; select a fresh directory with documented inputs staged under it."
+    },
+    "render_v20_root": {
+      "value": "",
+      "description": "Writable external execution root; select a fresh directory with documented inputs staged under it."
+    },
+    "build_figure3_revision_source_20": {
+      "value": "",
+      "description": "Original path at current_figure3/build_figure3_revision.py:20; input/output role described in README; never run against the original output tree."
+    },
+    "figure3_output_root": {
+      "value": "",
+      "description": "Writable external execution root; select a fresh directory with documented inputs staged under it."
+    },
+    "figure3_source_pdf": {
+      "value": "",
+      "description": "Read-only finalized baseline PDF; needed for preservation of unchanged panels."
+    },
+    "recompute_embedding_source_25": {
+      "value": "",
+      "description": "Original path at umap/recompute_embedding.py:25; input/output role described in README; never run against the original output tree."
+    },
+    "recompute_embedding_source_28": {
+      "value": "",
+      "description": "Original path at umap/recompute_embedding.py:28; input/output role described in README; never run against the original output tree."
+    },
+    "render_umaps_source_26": {
+      "value": "",
+      "description": "Original path at umap/render_umaps.py:26; input/output role described in README; never run against the original output tree."
+    },
+    "prepare_tcr_umap_inputs_source_25": {
+      "value": "",
+      "description": "Original path at umap/prepare_tcr_umap_inputs.py:25; input/output role described in README; never run against the original output tree."
+    },
+    "prepare_tcr_umap_inputs_source_65": {
+      "value": "",
+      "description": "Original path at umap/prepare_tcr_umap_inputs.py:65; input/output role described in README; never run against the original output tree."
+    },
+    "prepare_tcr_umap_inputs_source_66": {
+      "value": "",
+      "description": "Original path at umap/prepare_tcr_umap_inputs.py:66; input/output role described in README; never run against the original output tree."
+    },
+    "build_cluster_mapping_source_257": {
+      "value": "",
+      "description": "Original path at c27/build_cluster_mapping.py:257; input/output role described in README; never run against the original output tree."
+    },
+    "build_cluster_mapping_source_258": {
+      "value": "",
+      "description": "Original path at c27/build_cluster_mapping.py:258; input/output role described in README; never run against the original output tree."
+    },
+    "signature_prepare_source_17": {
+      "value": "",
+      "description": "Original path at signature_upstream/signature_prepare.py:17; input/output role described in README; never run against the original output tree."
+    },
+    "signature_prepare_source_18": {
+      "value": "",
+      "description": "Original path at signature_upstream/signature_prepare.py:18; input/output role described in README; never run against the original output tree."
+    },
+    "signature_upstream_root": {
+      "value": "",
+      "description": "Writable external execution root; select a fresh directory with documented inputs staged under it."
+    }
+  },
+  "private_constants": {
+    "single_cell_common_value_12_5": {
+      "value": "",
+      "description": "Private source constant from legacy/code/single_cell_common.py:12"
+    },
+    "single_cell_common_value_13_5": {
+      "value": "",
+      "description": "Private source constant from legacy/code/single_cell_common.py:13"
+    },
+    "bulk_sc_match_ingest_value_56_8": {
+      "value": "",
+      "description": "Private source constant from legacy/revision_v5/code/bulk_sc_match_ingest.py:56"
+    },
+    "bulk_sc_match_ingest_value_56_46": {
+      "value": "",
+      "description": "Private source constant from legacy/revision_v5/code/bulk_sc_match_ingest.py:56"
+    },
+    "bulk_sc_match_verify_value_44_9": {
+      "value": "",
+      "description": "Private source constant from legacy/revision_v5/code/bulk_sc_match_verify.py:44"
+    },
+    "bulk_sc_match_verify_value_44_50": {
+      "value": "",
+      "description": "Private source constant from legacy/revision_v5/code/bulk_sc_match_verify.py:44"
+    },
+    "v6_cohort_sharing_value_115_30": {
+      "value": "",
+      "description": "Private source constant from legacy/revision_v6/code/v6_cohort_sharing.py:115"
+    },
+    "v6_cohort_sharing_value_285_43": {
+      "value": "",
+      "description": "Private source constant from legacy/revision_v6/code/v6_cohort_sharing.py:285"
+    },
+    "v6_cohort_sharing_value_316_333": {
+      "value": "",
+      "description": "Private source constant from legacy/revision_v6/code/v6_cohort_sharing.py:316"
+    },
+    "v6_cohort_sharing_value_316_378": {
+      "value": "",
+      "description": "Private source constant from legacy/revision_v6/code/v6_cohort_sharing.py:316"
+    },
+    "v6_phenotypes_bridge_value_19_10": {
+      "value": "",
+      "description": "Private source constant from legacy/revision_v6/code/v6_phenotypes_bridge.py:19"
+    },
+    "v6_phenotypes_bridge_value_19_16": {
+      "value": "",
+      "description": "Private source constant from legacy/revision_v6/code/v6_phenotypes_bridge.py:19"
+    },
+    "v6_phenotypes_bridge_value_19_22": {
+      "value": "",
+      "description": "Private source constant from legacy/revision_v6/code/v6_phenotypes_bridge.py:19"
+    },
+    "v6_phenotypes_bridge_value_19_28": {
+      "value": "",
+      "description": "Private source constant from legacy/revision_v6/code/v6_phenotypes_bridge.py:19"
+    },
+    "v6_phenotypes_bridge_value_19_34": {
+      "value": "",
+      "description": "Private source constant from legacy/revision_v6/code/v6_phenotypes_bridge.py:19"
+    },
+    "v6_phenotypes_bridge_value_19_40": {
+      "value": "",
+      "description": "Private source constant from legacy/revision_v6/code/v6_phenotypes_bridge.py:19"
+    },
+    "v6_phenotypes_bridge_value_19_46": {
+      "value": "",
+      "description": "Private source constant from legacy/revision_v6/code/v6_phenotypes_bridge.py:19"
+    },
+    "v6_phenotypes_bridge_value_19_52": {
+      "value": "",
+      "description": "Private source constant from legacy/revision_v6/code/v6_phenotypes_bridge.py:19"
+    },
+    "v6_phenotypes_bridge_value_19_58": {
+      "value": "",
+      "description": "Private source constant from legacy/revision_v6/code/v6_phenotypes_bridge.py:19"
+    },
+    "v6_phenotypes_bridge_value_19_64": {
+      "value": "",
+      "description": "Private source constant from legacy/revision_v6/code/v6_phenotypes_bridge.py:19"
+    },
+    "v6_phenotypes_bridge_value_19_70": {
+      "value": "",
+      "description": "Private source constant from legacy/revision_v6/code/v6_phenotypes_bridge.py:19"
+    },
+    "v6_phenotypes_bridge_value_19_76": {
+      "value": "",
+      "description": "Private source constant from legacy/revision_v6/code/v6_phenotypes_bridge.py:19"
+    },
+    "v6_phenotypes_bridge_value_19_82": {
+      "value": "",
+      "description": "Private source constant from legacy/revision_v6/code/v6_phenotypes_bridge.py:19"
+    },
+    "v6_phenotypes_bridge_value_19_88": {
+      "value": "",
+      "description": "Private source constant from legacy/revision_v6/code/v6_phenotypes_bridge.py:19"
+    },
+    "v6_phenotypes_bridge_value_19_94": {
+      "value": "",
+      "description": "Private source constant from legacy/revision_v6/code/v6_phenotypes_bridge.py:19"
+    },
+    "v6_phenotypes_bridge_value_19_100": {
+      "value": "",
+      "description": "Private source constant from legacy/revision_v6/code/v6_phenotypes_bridge.py:19"
+    },
+    "v6_phenotypes_bridge_value_19_106": {
+      "value": "",
+      "description": "Private source constant from legacy/revision_v6/code/v6_phenotypes_bridge.py:19"
+    },
+    "v6_phenotypes_bridge_value_19_112": {
+      "value": "",
+      "description": "Private source constant from legacy/revision_v6/code/v6_phenotypes_bridge.py:19"
+    },
+    "v6_phenotypes_bridge_value_19_118": {
+      "value": "",
+      "description": "Private source constant from legacy/revision_v6/code/v6_phenotypes_bridge.py:19"
+    },
+    "v6_phenotypes_bridge_value_509_9": {
+      "value": "",
+      "description": "Private source constant from legacy/revision_v6/code/v6_phenotypes_bridge.py:509"
+    },
+    "v6_phenotypes_bridge_value_510_112": {
+      "value": "",
+      "description": "Private source constant from legacy/revision_v6/code/v6_phenotypes_bridge.py:510"
+    },
+    "v6_phenotypes_bridge_value_510_151": {
+      "value": "",
+      "description": "Private source constant from legacy/revision_v6/code/v6_phenotypes_bridge.py:510"
+    },
+    "prepare_tcr_umap_inputs_value_108_42": {
+      "value": "",
+      "description": "Private source constant from umap/prepare_tcr_umap_inputs.py:108"
+    },
+    "prepare_tcr_umap_inputs_value_109_42": {
+      "value": "",
+      "description": "Private source constant from umap/prepare_tcr_umap_inputs.py:109"
+    },
+    "signature_prepare_value_71_55": {
+      "value": "",
+      "description": "Private source constant from signature_upstream/signature_prepare.py:71"
+    },
+    "signature_prepare_value_71_61": {
+      "value": "",
+      "description": "Private source constant from signature_upstream/signature_prepare.py:71"
+    },
+    "cohort_sharing_selected_sample_check": {
+      "value": "",
+      "description": "Original public GSE selected visit sample assertion; kept private for data-free release."
+    },
+    "selected_on_visit_mapping_json": "JSON-encoded object mapping selected donors to their prespecified on-treatment sampling visit; private input only."
+  }
+}

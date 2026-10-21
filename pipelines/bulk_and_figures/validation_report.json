@@ -1,0 +1,41 @@
+{
+  "verified_utc": "2026-10-21T01:17:15.888975+00:00",
+  "source_scripts": 119,
+  "python_ast_equivalence_checked": 118,
+  "syntax": "PASS",
+  "external_literal_reconstruction": "Normalized AST equivalent after external-literal restoration, documented root adaptation, local-variable alpha normalization and docstring redaction",
+  "root_fix": "build_figure2_s1.py configured to revision_v27 package instead of misplaced scripts directory",
+  "errors": [],
+  "scientific_analyses_run": false,
+  "limitations": [
+    "Tests validate release adaptation and input boundary; large analyses and plots were not rerun.",
+    "Frozen manual layout artwork is an external input."
+  ],
+  "runtime_unit_tests": {
+    "command": "python3 -B -m unittest -v test_release_runtime",
+    "tests_run": 6,
+    "result": "PASS"
+  },
+  "public_identifier_review": {
+    "verified_utc": "2026-10-21T01:18:32.184589+00:00",
+    "status": "PASS",
+    "focused_script_ast_checks": [
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v6/v6_candidate_audit.py",
+        "restored_ast": "PASS",
+        "release_sha256": "acf653101f570caeec330341c39f38baadc3b53ef7ef45165d03c93156ce7bcb"
+      },
+      {
+        "file": "source_tree/20261003_paper_v2/revision_v18_figure_story_revision/reproducibility/historical_analysis/revision_v11/nodal_metrics_v11.py",
+        "restored_ast": "PASS",
+        "release_sha256": "2ee41836d39a975ff8ad5854c17162c285eacf5e746ef222b483a644dc4fe451"
+      }
+    ],
+    "synthetic_dynamic_call_cases": 3,
+    "missing_attribute_equivalence": "PASS",
+    "scientific_data_used": false,
+    "scientific_pipelines_imported": false,
+    "case_insensitive_identifier_scan": "PASS: no reviewed identifier occurrences in bulk publication directory",
+    "review_document": "PUBLIC_RELEASE_VALIDATION.md"
+  }
+}
